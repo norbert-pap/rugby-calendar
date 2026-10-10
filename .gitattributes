@@ -1,0 +1,2 @@
+# Preserve RFC 5545 CRLF line endings and treat CR at EOL as intentional.
+*.ics -text whitespace=cr-at-eol
