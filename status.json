@@ -1,0 +1,48 @@
+{
+  "sources": [
+    {
+      "name": "Harlequins",
+      "events": 377
+    },
+    {
+      "name": "Hurricanes (NZ)",
+      "events": 48
+    },
+    {
+      "name": "Six Nations",
+      "events": 15
+    },
+    {
+      "name": "The Rugby Championship",
+      "events": 0
+    },
+    {
+      "name": "International Friendlies",
+      "events": 7
+    },
+    {
+      "name": "Rugby World Cup",
+      "events": 0
+    },
+    {
+      "name": "Nations Championship",
+      "events": 18
+    },
+    {
+      "name": "The Lions Series",
+      "events": 0
+    },
+    {
+      "name": "Pacific Nations Cup",
+      "events": 0
+    },
+    {
+      "name": "Rugby Europe Championship",
+      "events": 0
+    }
+  ],
+  "duplicates_removed": 0,
+  "old_events_removed": 396,
+  "events": 69,
+  "last_successful_refresh": "2026-10-10T08:05:02.505525+00:00"
+}
