@@ -11,4 +11,4 @@ Out of scope: women's, development A/XV, club leagues other than the two selecte
 Live Gainline feeds exist for both clubs and all eight selected international competitions. Some international competitions currently return valid empty calendars. Team feeds include extensive historical results, so trim old fixtures before publication. No shared UIDs were found among the currently populated international competition feeds.
 
 ## Decision
-The operator asked for all selected rugby calendars together. Public hosting approval is pending; local preparation is authorized. Separate sources remain available until Proton successfully syncs the combined feed.
+The operator asked for all selected rugby calendars together. Public hosting approved by the operator on 10 October 2026. Separate sources remain available until Proton successfully syncs the combined feed.
