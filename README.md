@@ -57,3 +57,11 @@ Run manually via **Actions → Refresh cycling and darts calendars → Run workf
 .venv/bin/python sports.py cycling
 .venv/bin/python sports.py darts
 ```
+
+On Windows, use the virtual environment executable instead:
+
+```powershell
+.venv\Scripts\python.exe -m unittest -v
+.venv\Scripts\python.exe sports.py cycling
+.venv\Scripts\python.exe sports.py darts
+```
