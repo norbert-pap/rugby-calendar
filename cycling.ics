@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sports Calendar//Filtered subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Men's Giro d'Italia\, Tour de France\, Vuelta a España and f
+ ive Monuments. Source: Calendario Ciclismo.
+X-WR-CALNAME:Cycling — Grand Tours & Monuments
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-LAST-REFRESHED:20261011T153948Z
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/Budapest
+BEGIN:VEVENT
+SUMMARY:Vuelta a España 2026 · Stage 20
+DTSTART:20260912T103000Z
+DTEND:20260912T153000Z
+DTSTAMP:20261011T082149Z
+UID:la-vuelta-2026-etapa-20@calendariociclismo.app
+DESCRIPTION:La Calahorra → Collado del Alguacil · 186.8 km · Alta mont
+ aña · Final en alto
+URL:https://calendariociclismo.app/jornada.html?slug=la-vuelta-2026-etapa-
+ 20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vuelta a España 2026 · Stage 21
+DTSTART:20260913T142000Z
+DTEND:20260913T171500Z
+DTSTAMP:20261011T082149Z
+UID:la-vuelta-2026-etapa-21@calendariociclismo.app
+DESCRIPTION:Granada · 112 km · Cotas
+URL:https://calendariociclismo.app/jornada.html?slug=la-vuelta-2026-etapa-
+ 21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il Lombardia 2026
+DTSTART:20261010T090500Z
+DTEND:20261010T145900Z
+DTSTAMP:20261011T082149Z
+UID:il-lombardia-2026@calendariociclismo.app
+DESCRIPTION:Bergamo → Como · 239 km · Media montaña
+URL:https://calendariociclismo.app/jornada.html?slug=il-lombardia-2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milan-San Remo 2027
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+DTSTAMP:20261011T082149Z
+UID:milan-san-remo-2027@calendariociclismo.app
+DESCRIPTION:IT
+URL:https://calendariociclismo.app/competicion.html?slug=milan-san-remo-20
+ 27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour of Flanders 2027
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20261011T082149Z
+UID:tour-de-flandes-2027@calendariociclismo.app
+DESCRIPTION:BE
+URL:https://calendariociclismo.app/competicion.html?slug=tour-de-flandes-2
+ 027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris-Roubaix 2027
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261011T082149Z
+UID:paris-roubaix-2027@calendariociclismo.app
+DESCRIPTION:FR
+URL:https://calendariociclismo.app/competicion.html?slug=paris-roubaix-202
+ 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liège-Bastogne-Liège 2027
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20261011T082149Z
+UID:lieja-bastona-lieja-2027@calendariociclismo.app
+DESCRIPTION:BE
+URL:https://calendariociclismo.app/competicion.html?slug=lieja-bastona-lie
+ ja-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270531
+DTSTAMP:20261011T082149Z
+UID:giro-de-italia-2027@calendariociclismo.app
+DESCRIPTION:IT
+URL:https://calendariociclismo.app/competicion.html?slug=giro-de-italia-20
+ 27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de France 2027
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270726
+DTSTAMP:20261011T082149Z
+UID:tour-de-francia-2027@calendariociclismo.app
+DESCRIPTION:FR
+URL:https://calendariociclismo.app/competicion.html?slug=tour-de-francia-2
+ 027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vuelta a España 2027
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270927
+DTSTAMP:20261011T082149Z
+UID:la-vuelta-2027@calendariociclismo.app
+DESCRIPTION:ES
+URL:https://calendariociclismo.app/competicion.html?slug=la-vuelta-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il Lombardia 2027
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+DTSTAMP:20261011T082149Z
+UID:il-lombardia-2027@calendariociclismo.app
+DESCRIPTION:IT
+URL:https://calendariociclismo.app/competicion.html?slug=il-lombardia-2027
+END:VEVENT
+END:VCALENDAR
