@@ -7,20 +7,9 @@ X-WR-CALDESC:Men's Giro d'Italia\, Tour de France\, Vuelta a España and f
  ive Monuments. Source: Calendario Ciclismo.
 X-WR-CALNAME:Cycling — Grand Tours & Monuments
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
-X-LAST-REFRESHED:20261012T130837Z
+X-LAST-REFRESHED:20261012T184257Z
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Budapest
-BEGIN:VEVENT
-SUMMARY:Vuelta a España 2026 · Stage 20
-DTSTART:20260912T103000Z
-DTEND:20260912T153000Z
-DTSTAMP:20261012T051059Z
-UID:la-vuelta-2026-etapa-20@calendariociclismo.app
-DESCRIPTION:La Calahorra → Collado del Alguacil · 186.8 km · Alta mont
- aña · Final en alto
-URL:https://calendariociclismo.app/jornada.html?slug=la-vuelta-2026-etapa-
- 20
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vuelta a España 2026 · Stage 21
 DTSTART:20260913T142000Z
