@@ -18,7 +18,7 @@
     },
     {
       "name": "International Friendlies",
-      "events": 7
+      "events": 6
     },
     {
       "name": "Rugby World Cup",
@@ -42,7 +42,7 @@
     }
   ],
   "duplicates_removed": 0,
-  "old_events_removed": 396,
-  "events": 69,
-  "last_successful_refresh": "2026-10-12T18:38:04.154025+00:00"
+  "old_events_removed": 397,
+  "events": 67,
+  "last_successful_refresh": "2026-10-13T01:12:37.990719+00:00"
 }
