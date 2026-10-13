@@ -7,19 +7,9 @@ X-WR-CALDESC:Men's Giro d'Italia\, Tour de France\, Vuelta a España and f
  ive Monuments. Source: Calendario Ciclismo.
 X-WR-CALNAME:Cycling — Grand Tours & Monuments
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
-X-LAST-REFRESHED:20261013T125103Z
+X-LAST-REFRESHED:20261013T184233Z
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Budapest
-BEGIN:VEVENT
-SUMMARY:Vuelta a España 2026 · Stage 21
-DTSTART:20260913T142000Z
-DTEND:20260913T171500Z
-DTSTAMP:20261013T050610Z
-UID:la-vuelta-2026-etapa-21@calendariociclismo.app
-DESCRIPTION:Granada · 112 km · Cotas
-URL:https://calendariociclismo.app/jornada.html?slug=la-vuelta-2026-etapa-
- 21
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Il Lombardia 2026
 DTSTART:20261010T090500Z

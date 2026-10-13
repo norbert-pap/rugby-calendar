@@ -10,9 +10,9 @@
     }
   ],
   "duplicates_removed": 0,
-  "old_events_removed": 65,
-  "events": 10,
-  "last_successful_refresh": "2026-10-13T12:51:03.979095+00:00",
+  "old_events_removed": 66,
+  "events": 9,
+  "last_successful_refresh": "2026-10-13T18:42:33.624664+00:00",
   "optional_sources_unpublished": [],
   "latest_event_start": "2027-10-09T00:00:00+00:00"
 }
