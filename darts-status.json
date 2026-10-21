@@ -6,9 +6,9 @@
     }
   ],
   "duplicates_removed": 0,
-  "old_events_removed": 11,
-  "events": 22,
-  "last_successful_refresh": "2026-10-20T18:39:12.019958+00:00",
+  "old_events_removed": 14,
+  "events": 19,
+  "last_successful_refresh": "2026-10-21T01:03:37.749312+00:00",
   "optional_sources_unpublished": [],
   "latest_event_start": "2026-12-11T00:00:00+00:00"
 }
