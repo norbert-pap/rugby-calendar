@@ -25,7 +25,6 @@ SOURCES = [
     ('Pacific Nations Cup', None, 'league/28-pacific-nations-cup'),
     ('Rugby Europe Championship', None, 'league/24-rugby-europe-championship'),
 ]
-USER_AGENT = 'RugbyCalendar/1.0 (+https://github.com/norbert-pap/rugby-calendar)'
 # A source that fails to download is served from its last good copy for this long.
 MAX_STALE = timedelta(days=7)
 RUN_ID = str(uuid.uuid4())
@@ -48,7 +47,7 @@ def fetch(source):
     result = subprocess.run([
         'curl', '--fail', '--location', '--silent', '--show-error',
         '--connect-timeout', '15', '--max-time', '45',
-        '--retry', '2', '--retry-delay', '2', '--user-agent', USER_AGENT, BASE + path,
+        '--retry', '2', '--retry-delay', '2', BASE + path,
     ], capture_output=True, check=False)
     if result.returncode:
         raise RuntimeError(f'{name}: fetch failed: {result.stderr.decode(errors="replace").strip()}')
