@@ -45,5 +45,6 @@ jobs:
           git add "$SPORT.ics" "$SPORT-status.json"
           if ! git diff --cached --quiet; then
             git commit -m "Refresh $SPORT calendar"
+            git pull --rebase
             git push
           fi

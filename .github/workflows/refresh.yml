@@ -35,5 +35,6 @@ jobs:
           git add rugby.ics status.json sources
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh combined rugby fixtures'
+            git pull --rebase
             git push
           fi
