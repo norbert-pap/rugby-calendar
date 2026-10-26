@@ -1,6 +1,7 @@
+import json
 import tempfile
 import unittest
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from unittest.mock import patch
 from icalendar import Calendar, Event
@@ -67,6 +68,35 @@ class MergeTests(unittest.TestCase):
                     merge.refresh(out, NOW)
             self.assertEqual(out.read_text(), 'previous good feed')
             self.assertFalse((out.parent / 'status.json').exists())
+
+    def refresh_with_one_blocked_source(self, folder, cached_at):
+        out = Path(folder) / 'rugby.ics'
+        blocked = merge.SOURCES[0]
+        merge.cache_path(out, blocked).parent.mkdir()
+        merge.cache_path(out, blocked).write_bytes(feed(uid='cached', summary='Cached fixture'))
+        (Path(folder) / 'status.json').write_text(json.dumps({'sources': [{'name': blocked[0], 'fetched_at': cached_at.isoformat()}]}))
+        def fetch(source):
+            if source == blocked:
+                raise RuntimeError('curl: (22) The requested URL returned error: 403')
+            return source[0], source[1], feed(uid=source[2])
+        with patch.object(merge, 'fetch', side_effect=fetch):
+            return out, merge.refresh(out, NOW)
+
+    def test_blocked_source_falls_back_to_last_good_copy(self):
+        with tempfile.TemporaryDirectory() as folder:
+            out, stats = self.refresh_with_one_blocked_source(folder, NOW - timedelta(days=6))
+            summaries = [str(event['SUMMARY']) for event in Calendar.from_ical(out.read_bytes()).walk('VEVENT')]
+            self.assertIn('Harlequins: Cached fixture', summaries)
+            self.assertTrue(stats['sources'][0]['stale'])
+            self.assertEqual(stats['sources'][0]['fetched_at'], (NOW - timedelta(days=6)).isoformat())
+            self.assertFalse(stats['sources'][1]['stale'])
+            self.assertTrue(merge.cache_path(out, merge.SOURCES[1]).exists())
+
+    def test_blocked_source_older_than_a_week_fails(self):
+        with tempfile.TemporaryDirectory() as folder:
+            with self.assertRaises(RuntimeError):
+                self.refresh_with_one_blocked_source(folder, NOW - timedelta(days=8))
+            self.assertFalse((Path(folder) / 'rugby.ics').exists())
 
 if __name__ == '__main__':
     unittest.main()
