@@ -25,6 +25,9 @@ SOURCES = [
     ('Pacific Nations Cup', None, 'league/28-pacific-nations-cup'),
     ('Rugby Europe Championship', None, 'league/24-rugby-europe-championship'),
 ]
+USER_AGENT = 'RugbyCalendar/1.0 (+https://github.com/norbert-pap/rugby-calendar)'
+# A source that fails to download is served from its last good copy for this long.
+MAX_STALE = timedelta(days=7)
 RUN_ID = str(uuid.uuid4())
 
 
@@ -45,7 +48,7 @@ def fetch(source):
     result = subprocess.run([
         'curl', '--fail', '--location', '--silent', '--show-error',
         '--connect-timeout', '15', '--max-time', '45',
-        '--retry', '2', '--retry-delay', '2', BASE + path,
+        '--retry', '2', '--retry-delay', '2', '--user-agent', USER_AGENT, BASE + path,
     ], capture_output=True, check=False)
     if result.returncode:
         raise RuntimeError(f'{name}: fetch failed: {result.stderr.decode(errors="replace").strip()}')
@@ -126,11 +129,34 @@ def atomic_write(path, body):
     os.replace(temp, path)
 
 
+def cache_path(output, source):
+    return output.parent / 'sources' / (source[2].replace('/', '-') + '.ics')
+
+
+def fetch_or_cached(output, source, fetched_at, now):
+    """Fetch a source, falling back to its last good copy if it is under MAX_STALE old."""
+    try:
+        return fetch(source) + (now,)
+    except RuntimeError as exc:
+        cached, last = cache_path(output, source), fetched_at.get(source[0])
+        if not cached.exists() or not last or now - datetime.fromisoformat(last) > MAX_STALE:
+            raise
+        log('source_stale', name=source[0], error=str(exc), fetched_at=last)
+        return source[0], source[1], cached.read_bytes(), datetime.fromisoformat(last)
+
+
 def refresh(output, now=None):
     now = now or datetime.now(timezone.utc)
+    status = output.with_name('status.json')
+    previous = json.loads(status.read_text()) if status.exists() else {}
+    fetched_at = {source['name']: source.get('fetched_at') for source in previous.get('sources', [])}
     with ThreadPoolExecutor(max_workers=4) as pool:
-        feeds = list(pool.map(fetch, SOURCES))
+        results = list(pool.map(lambda source: fetch_or_cached(output, source, fetched_at, now), SOURCES))
+    feeds = [result[:3] for result in results]
     calendar, stats = combine(feeds, now)
+    for source, result in zip(stats['sources'], results):
+        source['fetched_at'] = result[3].isoformat()
+        source['stale'] = result[3] != now
     payload = calendar.to_ical()
     if len(payload) >= 1_000_000:
         raise ValueError('Combined calendar exceeds Proton subscription size limit')
@@ -138,8 +164,12 @@ def refresh(output, now=None):
     if len(Calendar.from_ical(payload).walk('VEVENT')) != stats['events']:
         raise ValueError('Output validation failed')
     output.parent.mkdir(parents=True, exist_ok=True)
+    for source, result in zip(SOURCES, results):
+        if result[3] == now:
+            cache_path(output, source).parent.mkdir(exist_ok=True)
+            atomic_write(cache_path(output, source), result[2])
     atomic_write(output, payload)
-    atomic_write(output.with_name('status.json'), (json.dumps(stats, indent=2) + '\n').encode())
+    atomic_write(status, (json.dumps(stats, indent=2) + '\n').encode())
     for source in stats['sources']:
         log('source_validated', **source)
     log('calendar_refreshed', events=stats['events'], bytes=len(payload), duplicates_removed=stats['duplicates_removed'], old_events_removed=stats['old_events_removed'])

@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gainline//Rugby Match Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rugby Europe Championship - Fixtures
+X-WR-CALDESC:Match fixtures for Rugby Europe Championship
+X-WR-TIMEZONE:UTC
+END:VCALENDAR

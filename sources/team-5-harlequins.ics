@@ -1,0 +1,4511 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gainline//Rugby Match Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Harlequins - Fixtures
+X-WR-CALDESC:Fixtures for Harlequins
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTAMP:20250218T212543
+UID:match-95@gainline.app
+DTSTART:20240922T140000Z
+DTEND:20240922T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 12
+  - 11\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212543
+LOCATION:Salford City Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 12 - 11 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212543
+UID:match-97@gainline.app
+DTSTART:20240928T140000Z
+DTEND:20240928T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 28
+  - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212543
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 28 - 14 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212543
+UID:match-101@gainline.app
+DTSTART:20241004T184500Z
+DTEND:20241004T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 33
+  - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212543
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 33 - 29 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212544
+UID:match-110@gainline.app
+DTSTART:20241013T140000Z
+DTEND:20241013T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 17
+  - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212544
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 17 - 10 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212544
+UID:match-114@gainline.app
+DTSTART:20241019T163000Z
+DTEND:20241019T193000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 24
+  - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212544
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 24 - 26 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212544
+UID:match-120@gainline.app
+DTSTART:20241027T150000Z
+DTEND:20241027T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 19
+  - 36\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212544
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 19 - 36 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212544
+UID:match-121@gainline.app
+DTSTART:20241129T194500Z
+DTEND:20241129T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 24
+  - 48\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212544
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 24 - 48 Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212545
+UID:match-126@gainline.app
+DTSTART:20241220T194500Z
+DTEND:20241220T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 14
+  - 0\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212545
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 14 - 0 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250325T063914
+UID:match-134@gainline.app
+DTSTART:20241228T180000Z
+DTEND:20241228T210000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 34
+  - 34\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250325T063914
+LOCATION:Allianz Stadium Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 34 - 34 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212545
+UID:match-136@gainline.app
+DTSTART:20250103T194500Z
+DTEND:20250103T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 1
+ 4 - 38\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212545
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 14 - 38 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212545
+UID:match-144@gainline.app
+DTSTART:20250124T194500Z
+DTEND:20250124T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 2
+ 2 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212545
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 22 - 19 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250322T170430
+UID:match-150@gainline.app
+DTSTART:20250322T150500Z
+DTEND:20250322T180500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 1
+ 2 - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250322T170430
+LOCATION:Tottenham Hotspur Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 12 - 23 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250329T180357
+UID:match-151@gainline.app
+DTSTART:20250329T150500Z
+DTEND:20250329T180500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 4
+ 7 - 28\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250329T180357
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 47 - 28 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T162231
+UID:match-158@gainline.app
+DTSTART:20250419T140500Z
+DTEND:20250419T170500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 2
+ 9 - 43\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250419T162231
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 29 - 43 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250426T161507
+UID:match-165@gainline.app
+DTSTART:20250426T140500Z
+DTEND:20250426T170500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 4
+ 0 - 7\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250426T161507
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 40 - 7 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250510T204450
+UID:match-168@gainline.app
+DTSTART:20250510T163000Z
+DTEND:20250510T193000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 3
+ 8 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250510T204450
+LOCATION:Allianz Stadium
+STATUS:CONFIRMED
+SUMMARY:Harlequins 38 - 19 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250521T095134
+UID:match-174@gainline.app
+DTSTART:20250518T140000Z
+DTEND:20250518T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 2
+ 4 - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250521T095134
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 24 - 22 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250531T170525
+UID:match-176@gainline.app
+DTSTART:20250531T140500Z
+DTEND:20250531T170500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 5
+ 2 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250531T170525
+LOCATION:Ashton Gate
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 52 - 26 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212547
+UID:match-186@gainline.app
+DTSTART:20231014T130000Z
+DTEND:20231014T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 29
+  - 28\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212547
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 29 - 28 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212547
+UID:match-193@gainline.app
+DTSTART:20231022T140000Z
+DTEND:20231022T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 22
+  - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212547
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 22 - 14 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212547
+UID:match-195@gainline.app
+DTSTART:20231028T133000Z
+DTEND:20231028T163000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 21
+  - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212547
+LOCATION:Ashton Gate
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 21 - 23 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212547
+UID:match-200@gainline.app
+DTSTART:20231104T150000Z
+DTEND:20231104T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 40
+  - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212547
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 40 - 12 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212548
+UID:match-206@gainline.app
+DTSTART:20231111T150500Z
+DTEND:20231111T180500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 25
+  - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212548
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 25 - 29 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212548
+UID:match-212@gainline.app
+DTSTART:20231118T173000Z
+DTEND:20231118T203000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 10
+  - 38\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212548
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 10 - 38 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212548
+UID:match-214@gainline.app
+DTSTART:20231124T194500Z
+DTEND:20231124T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 36
+  - 33\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212548
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 36 - 33 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212548
+UID:match-219@gainline.app
+DTSTART:20231201T194500Z
+DTEND:20231201T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 36
+  - 3\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212548
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 36 - 3 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212549
+UID:match-228@gainline.app
+DTSTART:20231223T150500Z
+DTEND:20231223T180500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 25
+  - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212549
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 25 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212549
+UID:match-232@gainline.app
+DTSTART:20231230T173000Z
+DTEND:20231230T203000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 3
+ 2 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212549
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 32 - 26 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212549
+UID:match-234@gainline.app
+DTSTART:20240105T194500Z
+DTEND:20240105T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 3
+  - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212549
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 3 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212549
+UID:match-239@gainline.app
+DTSTART:20240126T194500Z
+DTEND:20240126T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 1
+ 9 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212549
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 19 - 20 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212550
+UID:match-247@gainline.app
+DTSTART:20240323T150500Z
+DTEND:20240323T180500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 5
+ 2 - 7\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212550
+LOCATION:Tottenham Hotspur Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 52 - 7 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212550
+UID:match-252@gainline.app
+DTSTART:20240330T150500Z
+DTEND:20240330T180500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 4
+ 0 - 36\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212550
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 40 - 36 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212550
+UID:match-258@gainline.app
+DTSTART:20240421T140000Z
+DTEND:20240421T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 3
+ 7 - 31\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212550
+LOCATION:Salford City Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 37 - 31 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212550
+UID:match-261@gainline.app
+DTSTART:20240427T140500Z
+DTEND:20240427T170500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 4
+ 1 - 32\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212550
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 41 - 32 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212551
+UID:match-268@gainline.app
+DTSTART:20240511T163000Z
+DTEND:20240511T193000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 5
+ 8 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212551
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 58 - 26 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212551
+UID:match-271@gainline.app
+DTSTART:20240518T140500Z
+DTEND:20240518T170500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 2
+ 8 - 53\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212551
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 28 - 53 Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212641
+UID:match-1537@gainline.app
+DTSTART:20241207T200000Z
+DTEND:20241207T230000Z
+DESCRIPTION:Investec Champions Cup\nStage: Pool 4\nRound: 1\nScore: 23 - 12
+ \nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212641
+LOCATION:Stade Dominique Duvauchelle
+STATUS:CONFIRMED
+SUMMARY:Racing 92 23 - 12 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212641
+UID:match-1548@gainline.app
+DTSTART:20241214T200000Z
+DTEND:20241214T230000Z
+DESCRIPTION:Investec Champions Cup\nStage: Pool 4\nRound: 2\nScore: 53 - 16
+ \nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212641
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 53 - 16 Stormers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212642
+UID:match-1561@gainline.app
+DTSTART:20250112T130000Z
+DTEND:20250112T160000Z
+DESCRIPTION:Investec Champions Cup\nStage: Pool 4\nRound: 3\nScore: 33 - 21
+ \nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212642
+LOCATION:Stade Mayol
+STATUS:CONFIRMED
+SUMMARY:RC Toulon 33 - 21 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212642
+UID:match-1571@gainline.app
+DTSTART:20250118T200000Z
+DTEND:20250118T230000Z
+DESCRIPTION:Investec Champions Cup\nStage: Pool 4\nRound: 4\nScore: 24 - 7\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212642
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 24 - 7 Glasgow Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250408T060508
+UID:match-1581@gainline.app
+DTSTART:20250405T140000Z
+DTEND:20250405T170000Z
+DESCRIPTION:Investec Champions Cup\nStage: R16\nRound: 5\nScore: 62 - 0\nSt
+ atus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250408T060508
+LOCATION:Croke Park
+STATUS:CONFIRMED
+SUMMARY:Leinster Rugby 62 - 0 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212645
+UID:match-1717@gainline.app
+DTSTART:20241102T140000Z
+DTEND:20241102T170000Z
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool 3\nRound: 1\nScore: 22 - 35\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212645
+LOCATION:Richmond Athletic Ground
+STATUS:CONFIRMED
+SUMMARY:London Scottish 22 - 35 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212645
+UID:match-1722@gainline.app
+DTSTART:20241108T194500Z
+DTEND:20241108T224500Z
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool 3\nRound: 2\nScore: 38 - 33\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212645
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 38 - 33 Ealing Trailfinders
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212645
+UID:match-1739@gainline.app
+DTSTART:20241123T150000Z
+DTEND:20241123T180000Z
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool 3\nRound: 3\nScore: 28 - 26\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212645
+LOCATION:StoneX Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 28 - 26 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212645
+UID:match-1742@gainline.app
+DTSTART:20250201T140000Z
+DTEND:20250201T170000Z
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool 3\nRound: 4\nScore: 33 - 14\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212645
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 33 - 14 London Scottish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250325T063924
+UID:match-1757@gainline.app
+DTSTART:20250208T150000Z
+DTEND:20250208T180000Z
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool 3\nRound: 5\nScore: 10 - 32\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250325T063924
+LOCATION:Trailfinders Sports Ground
+STATUS:CONFIRMED
+SUMMARY:Ealing Trailfinders 10 - 32 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250218T212646
+UID:match-1769@gainline.app
+DTSTART:20250215T150500Z
+DTEND:20250215T180500Z
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool 3\nRound: 6\nScore: 29 - 30\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250218T212646
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 29 - 30 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250308T083216
+UID:match-1771@gainline.app
+DTSTART:20250228T194500Z
+DTEND:20250228T224500Z
+DESCRIPTION:Premiership Rugby Cup\nStage: QF\nRound: 7\nScore: 39 - 28\nSta
+ tus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250308T083216
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 39 - 28 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125104
+UID:match-2031@gainline.app
+DTSTART:20220910T140000Z
+DTEND:20220910T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 31
+  - 40\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125104
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 31 - 40 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125105
+UID:match-2037@gainline.app
+DTSTART:20220917T140000Z
+DTEND:20220917T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 27
+  - 30\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125105
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 27 - 30 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125109
+UID:match-2046@gainline.app
+DTSTART:20220925T140000Z
+DTEND:20220925T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 43
+  - 42\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125109
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 43 - 42 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125112
+UID:match-2052@gainline.app
+DTSTART:20221002T140000Z
+DTEND:20221002T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 35
+  - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125112
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 35 - 29 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125113
+UID:match-2056@gainline.app
+DTSTART:20221008T140000Z
+DTEND:20221008T170000Z
+DESCRIPTION:English Premiership\nRound: 5\nScore: 0 - 0\nStatus: cancelled\
+ n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125113
+LOCATION:Sixways
+STATUS:CANCELLED
+SUMMARY:Worcester Warriors 0 - 0 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125115
+UID:match-2064@gainline.app
+DTSTART:20221016T140000Z
+DTEND:20221016T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 19
+  - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125115
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 19 - 27 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125116
+UID:match-2069@gainline.app
+DTSTART:20221023T140000Z
+DTEND:20221023T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 13
+  - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125116
+LOCATION:Salford City Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 13 - 29 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125118
+UID:match-2072@gainline.app
+DTSTART:20221029T140000Z
+DTEND:20221029T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 26
+  - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125118
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 26 - 24 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125121
+UID:match-2088@gainline.app
+DTSTART:20221113T150000Z
+DTEND:20221113T180000Z
+DESCRIPTION:English Premiership\nRound: 10\nScore: 0 - 0\nStatus: not_start
+ ed\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125121
+LOCATION:Coventry Building Society Arena
+STATUS:CONFIRMED
+SUMMARY:Wasps 0 - 0 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125122
+UID:match-2089@gainline.app
+DTSTART:20221125T194500Z
+DTEND:20221125T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 2
+ 1 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125122
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 21 - 12 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125123
+UID:match-2095@gainline.app
+DTSTART:20221202T194500Z
+DTEND:20221202T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 1
+ 3 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125123
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 13 - 19 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125127
+UID:match-2106@gainline.app
+DTSTART:20221227T161500Z
+DTEND:20221227T191500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 1
+ 2 - 15\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125127
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 12 - 15 Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125131
+UID:match-2112@gainline.app
+DTSTART:20230101T150000Z
+DTEND:20230101T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 4
+ 6 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125131
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 46 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125130
+UID:match-2117@gainline.app
+DTSTART:20230108T150000Z
+DTEND:20230108T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 1
+ 6 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125130
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 16 - 24 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125133
+UID:match-2124@gainline.app
+DTSTART:20230129T150000Z
+DTEND:20230129T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 4
+ 2 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125133
+LOCATION:Gtech Community Stadium
+STATUS:CONFIRMED
+SUMMARY:London Irish 42 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125134
+UID:match-2129@gainline.app
+DTSTART:20230217T194500Z
+DTEND:20230217T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 2
+ 8 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125134
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 28 - 26 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125137
+UID:match-2141@gainline.app
+DTSTART:20230304T171500Z
+DTEND:20230304T201500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 4
+ 0 - 5\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125137
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 40 - 5 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125139
+UID:match-2149@gainline.app
+DTSTART:20230312T150000Z
+DTEND:20230312T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 5
+ 1 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125139
+LOCATION:Ashton Gate
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 51 - 26 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130218
+UID:match-2154@gainline.app
+DTSTART:20230325T150000Z
+DTEND:20230325T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 21\nScore: 3
+ 6 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130218
+LOCATION:Tottenham Hotspur Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 36 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125638
+UID:match-2160@gainline.app
+DTSTART:20230415T140000Z
+DTEND:20230415T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 4
+ 8 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125638
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 48 - 20 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125929
+UID:match-2165@gainline.app
+DTSTART:20230421T000000Z
+DTEND:20230421T030000Z
+DESCRIPTION:English Premiership\nRound: 25\nScore: 0 - 0\nStatus: cancelled
+ \n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125929
+LOCATION:Twickenham
+STATUS:CANCELLED
+SUMMARY:Harlequins 0 - 0 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130342
+UID:match-2171@gainline.app
+DTSTART:20230422T140000Z
+DTEND:20230422T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 23\nScore: 3
+ 5 - 45\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130342
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 35 - 45 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125259
+UID:match-2176@gainline.app
+DTSTART:20230505T000000Z
+DTEND:20230505T030000Z
+DESCRIPTION:English Premiership\nRound: 26\nScore: 0 - 0\nStatus: cancelled
+ \n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125259
+LOCATION:Gtech Community Stadium
+STATUS:CANCELLED
+SUMMARY:London Irish 0 - 0 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125931
+UID:match-2181@gainline.app
+DTSTART:20230506T150000Z
+DTEND:20230506T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 24\nScore: 1
+ 7 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125931
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 17 - 20 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130642
+UID:match-2193@gainline.app
+DTSTART:20210919T140000Z
+DTEND:20210919T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 20
+  - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130642
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 20 - 26 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125304
+UID:match-2197@gainline.app
+DTSTART:20210925T140000Z
+DTEND:20210925T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 35
+  - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125304
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 35 - 29 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125648
+UID:match-2206@gainline.app
+DTSTART:20211008T184500Z
+DTEND:20211008T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 52
+  - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125648
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 52 - 24 Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125656
+UID:match-2212@gainline.app
+DTSTART:20211015T184500Z
+DTEND:20211015T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 28
+  - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125656
+LOCATION:Salford City Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 28 - 22 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125328
+UID:match-2221@gainline.app
+DTSTART:20211023T140000Z
+DTEND:20211023T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 31
+  - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125328
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 31 - 17 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125726
+UID:match-2229@gainline.app
+DTSTART:20211031T150000Z
+DTEND:20211031T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 22
+  - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125726
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 22 - 29 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125341
+UID:match-2235@gainline.app
+DTSTART:20211107T163000Z
+DTEND:20211107T193000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 16
+  - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125341
+LOCATION:Coventry Building Society Arena
+STATUS:CONFIRMED
+SUMMARY:Wasps 16 - 26 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125736
+UID:match-2239@gainline.app
+DTSTART:20211127T150000Z
+DTEND:20211127T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 19
+  - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125736
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 19 - 22 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125739
+UID:match-2247@gainline.app
+DTSTART:20211205T150000Z
+DTEND:20211205T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 1
+ 6 - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125739
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 16 - 14 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125740
+UID:match-2253@gainline.app
+DTSTART:20211227T170000Z
+DTEND:20211227T200000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 4
+ 1 - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125740
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 41 - 27 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125740
+UID:match-2256@gainline.app
+DTSTART:20220102T150000Z
+DTEND:20220102T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 1
+ 7 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125740
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 17 - 20 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125740
+UID:match-2261@gainline.app
+DTSTART:20220108T150000Z
+DTEND:20220108T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 1
+ 4 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125740
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 14 - 12 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125742
+UID:match-2266@gainline.app
+DTSTART:20220128T194500Z
+DTEND:20220128T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 2
+ 1 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125742
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 21 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130558
+UID:match-2277@gainline.app
+DTSTART:20220206T130000Z
+DTEND:20220206T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 1
+ 4 - 36\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130558
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 14 - 36 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130234
+UID:match-2283@gainline.app
+DTSTART:20220213T130000Z
+DTEND:20220213T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 1
+ 9 - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130234
+LOCATION:StoneX Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 19 - 10 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125351
+UID:match-2286@gainline.app
+DTSTART:20220219T150000Z
+DTEND:20220219T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 2
+ 9 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125351
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 29 - 24 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125747
+UID:match-2292@gainline.app
+DTSTART:20220225T194500Z
+DTEND:20220225T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 2
+ 1 - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125747
+LOCATION:Sixways
+STATUS:CONFIRMED
+SUMMARY:Worcester Warriors 21 - 29 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130310
+UID:match-2296@gainline.app
+DTSTART:20220304T194500Z
+DTEND:20220304T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 2
+ 4 - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130310
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 24 - 10 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130310
+UID:match-2306@gainline.app
+DTSTART:20220313T150000Z
+DTEND:20220313T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 2
+ 9 - 38\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130310
+LOCATION:Ashton Gate
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 29 - 38 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130312
+UID:match-2319@gainline.app
+DTSTART:20220403T140000Z
+DTEND:20220403T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 1
+ 4 - 41\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130312
+LOCATION:Gtech Community Stadium
+STATUS:CONFIRMED
+SUMMARY:London Irish 14 - 41 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125359
+UID:match-2323@gainline.app
+DTSTART:20220423T140000Z
+DTEND:20220423T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 23\nScore: 2
+ 6 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125359
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 26 - 20 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130313
+UID:match-2326@gainline.app
+DTSTART:20220429T184500Z
+DTEND:20220429T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 24\nScore: 3
+ 2 - 31\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130313
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 32 - 31 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130315
+UID:match-2335@gainline.app
+DTSTART:20220521T140000Z
+DTEND:20220521T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 25\nScore: 2
+ 8 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130315
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 28 - 24 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125403
+UID:match-2338@gainline.app
+DTSTART:20220604T140000Z
+DTEND:20220604T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 26\nScore: 4
+ 7 - 38\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125403
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 47 - 38 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130627
+UID:match-2344@gainline.app
+DTSTART:20220611T123000Z
+DTEND:20220611T153000Z
+DESCRIPTION:English Premiership\nStage: SF\nRound: 27\nScore: 34 - 17\nStat
+ us: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130627
+LOCATION:StoneX Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 34 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130627
+UID:match-2347@gainline.app
+DTSTART:20201120T194500Z
+DTEND:20201120T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 3 
+ - 33\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130627
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 3 - 33 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125411
+UID:match-2354@gainline.app
+DTSTART:20201128T140000Z
+DTEND:20201128T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 29
+  - 49\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125411
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 29 - 49 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125417
+UID:match-2364@gainline.app
+DTSTART:20201206T161500Z
+DTEND:20201206T191500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 24
+  - 34\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125417
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 24 - 34 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130317
+UID:match-2366@gainline.app
+DTSTART:20201226T140000Z
+DTEND:20201226T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 19
+  - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130317
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 19 - 27 Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125417
+UID:match-2372@gainline.app
+DTSTART:20210101T194500Z
+DTEND:20210101T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 0 
+ - 0\nStatus: cancelled\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125417
+LOCATION:Sixways
+STATUS:CANCELLED
+SUMMARY:Worcester Warriors 0 - 0 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125945
+UID:match-2382@gainline.app
+DTSTART:20210110T150000Z
+DTEND:20210110T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 27
+  - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125945
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 27 - 27 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130241
+UID:match-2388@gainline.app
+DTSTART:20210131T150000Z
+DTEND:20210131T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 17
+  - 49\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130241
+LOCATION:Coventry Building Society Arena
+STATUS:CONFIRMED
+SUMMARY:Wasps 17 - 49 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130321
+UID:match-2391@gainline.app
+DTSTART:20210206T141500Z
+DTEND:20210206T171500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 15
+  - 28\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130321
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 15 - 28 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130323
+UID:match-2397@gainline.app
+DTSTART:20210213T160000Z
+DTEND:20210213T190000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 37
+  - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130323
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 37 - 24 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125424
+UID:match-2402@gainline.app
+DTSTART:20210220T130000Z
+DTEND:20210220T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 2
+ 4 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125424
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 24 - 12 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125425
+UID:match-2409@gainline.app
+DTSTART:20210227T150000Z
+DTEND:20210227T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 2
+ 5 - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125425
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 25 - 22 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125949
+UID:match-2418@gainline.app
+DTSTART:20210307T150000Z
+DTEND:20210307T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 3
+ 7 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125949
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 37 - 19 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125758
+UID:match-2420@gainline.app
+DTSTART:20210313T123000Z
+DTEND:20210313T153000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 2
+ 1 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125758
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 21 - 20 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125431
+UID:match-2427@gainline.app
+DTSTART:20210320T140000Z
+DTEND:20210320T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 5
+ 9 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125431
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 59 - 24 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130359
+UID:match-2432@gainline.app
+DTSTART:20210327T140000Z
+DTEND:20210327T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 3
+ 5 - 33\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130359
+LOCATION:Ashton Gate
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 35 - 33 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125434
+UID:match-2440@gainline.app
+DTSTART:20210417T160000Z
+DTEND:20210417T190000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 5
+ 0 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125434
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 50 - 26 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130630
+UID:match-2444@gainline.app
+DTSTART:20210424T113000Z
+DTEND:20210424T143000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 2
+ 1 - 25\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130630
+LOCATION:Brentford Community Stadium
+STATUS:CONFIRMED
+SUMMARY:London Irish 21 - 25 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130631
+UID:match-2454@gainline.app
+DTSTART:20210509T140000Z
+DTEND:20210509T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 4
+ 8 - 46\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130631
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 48 - 46 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125437
+UID:match-2457@gainline.app
+DTSTART:20210515T143000Z
+DTEND:20210515T173000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 3
+ 5 - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125437
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 35 - 29 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130631
+UID:match-2463@gainline.app
+DTSTART:20210529T130000Z
+DTEND:20210529T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 4
+ 4 - 33\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130631
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 44 - 33 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130445
+UID:match-2467@gainline.app
+DTSTART:20210604T184500Z
+DTEND:20210604T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 21\nScore: 4
+ 5 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130445
+LOCATION:AJ Bell Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 45 - 12 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125441
+UID:match-2476@gainline.app
+DTSTART:20210612T140000Z
+DTEND:20210612T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 5
+ 4 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125441
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 54 - 26 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130425
+UID:match-2479@gainline.app
+DTSTART:20210619T123000Z
+DTEND:20210619T153000Z
+DESCRIPTION:English Premiership\nStage: SF\nRound: 23\nScore: 36 - 43\nStat
+ us: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130425
+LOCATION:Ashton Gate
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 36 - 43 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125442
+UID:match-2481@gainline.app
+DTSTART:20210626T163000Z
+DTEND:20210626T193000Z
+DESCRIPTION:English Premiership\nStage: Final\nRound: 24\nScore: 38 - 40\nS
+ tatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125442
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 38 - 40 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125206
+UID:match-2483@gainline.app
+DTSTART:20191019T140000Z
+DTEND:20191019T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 22
+  - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125206
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 22 - 19 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125956
+UID:match-2491@gainline.app
+DTSTART:20191026T140000Z
+DTEND:20191026T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 22
+  - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125956
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 22 - 17 Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130632
+UID:match-2494@gainline.app
+DTSTART:20191101T194500Z
+DTEND:20191101T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 40
+  - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130632
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 40 - 22 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125811
+UID:match-2503@gainline.app
+DTSTART:20191109T150000Z
+DTEND:20191109T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 14
+  - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125811
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 14 - 19 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125957
+UID:match-2511@gainline.app
+DTSTART:20191201T150000Z
+DTEND:20191201T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 23
+  - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125957
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 23 - 19 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125211
+UID:match-2516@gainline.app
+DTSTART:20191221T150000Z
+DTEND:20191221T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 22
+  - 28\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125211
+LOCATION:Coventry Building Society Arena
+STATUS:CONFIRMED
+SUMMARY:Wasps 22 - 28 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125212
+UID:match-2522@gainline.app
+DTSTART:20191228T163000Z
+DTEND:20191228T193000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 30
+  - 30\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125212
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 30 - 30 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125818
+UID:match-2524@gainline.app
+DTSTART:20200103T194500Z
+DTEND:20200103T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 48
+  - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125818
+LOCATION:AJ Bell Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 48 - 10 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125818
+UID:match-2535@gainline.app
+DTSTART:20200126T150000Z
+DTEND:20200126T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 41
+  - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125818
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 41 - 14 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125213
+UID:match-2537@gainline.app
+DTSTART:20200215T150000Z
+DTEND:20200215T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 1
+ 5 - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125213
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 15 - 29 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130009
+UID:match-2544@gainline.app
+DTSTART:20200222T150000Z
+DTEND:20200222T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 1
+ 9 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130009
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 19 - 12 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125215
+UID:match-2549@gainline.app
+DTSTART:20200229T150000Z
+DTEND:20200229T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 3
+ 4 - 30\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125215
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 34 - 30 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130015
+UID:match-2559@gainline.app
+DTSTART:20200308T130000Z
+DTEND:20200308T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 2
+ 8 - 15\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130015
+LOCATION:Ashton Gate
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 28 - 15 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130015
+UID:match-2560@gainline.app
+DTSTART:20200814T184500Z
+DTEND:20200814T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 1
+ 6 - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130015
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 16 - 10 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125823
+UID:match-2569@gainline.app
+DTSTART:20200822T113000Z
+DTEND:20200822T143000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 3
+ 8 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125823
+LOCATION:StoneX Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 38 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130020
+UID:match-2576@gainline.app
+DTSTART:20200826T170000Z
+DTEND:20200826T200000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 2
+ 9 - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130020
+LOCATION:Sixways
+STATUS:CONFIRMED
+SUMMARY:Worcester Warriors 29 - 14 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130022
+UID:match-2579@gainline.app
+DTSTART:20200830T130000Z
+DTEND:20200830T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 3
+ 0 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130022
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 30 - 17 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130028
+UID:match-2587@gainline.app
+DTSTART:20200905T130000Z
+DTEND:20200905T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 2
+ 7 - 41\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130028
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 27 - 41 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125509
+UID:match-2595@gainline.app
+DTSTART:20200909T184500Z
+DTEND:20200909T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 1
+ 5 - 38\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125509
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:London Irish 15 - 38 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125221
+UID:match-2601@gainline.app
+DTSTART:20200914T184500Z
+DTEND:20200914T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 1
+ 5 - 28\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125221
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 15 - 28 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125223
+UID:match-2603@gainline.app
+DTSTART:20200928T184500Z
+DTEND:20200928T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 21\nScore: 2
+ 3 - 32\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125223
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 23 - 32 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125527
+UID:match-2609@gainline.app
+DTSTART:20201004T140000Z
+DTEND:20201004T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 2
+ 6 - 32\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125527
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 26 - 32 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125227
+UID:match-2619@gainline.app
+DTSTART:20180901T140000Z
+DTEND:20180901T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 51
+  - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125227
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 51 - 23 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125841
+UID:match-2623@gainline.app
+DTSTART:20180907T184500Z
+DTEND:20180907T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 25
+  - 18\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125841
+LOCATION:Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 25 - 18 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125228
+UID:match-2631@gainline.app
+DTSTART:20180915T140000Z
+DTEND:20180915T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 32
+  - 37\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125228
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 32 - 37 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125533
+UID:match-2637@gainline.app
+DTSTART:20180922T140000Z
+DTEND:20180922T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 20
+  - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125533
+LOCATION:Ashton Gate
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 20 - 13 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125230
+UID:match-2644@gainline.app
+DTSTART:20180929T140000Z
+DTEND:20180929T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 25
+  - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125230
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 25 - 27 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125233
+UID:match-2651@gainline.app
+DTSTART:20181006T183000Z
+DTEND:20181006T213000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 20
+  - 25\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125233
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 20 - 25 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125236
+UID:match-2654@gainline.app
+DTSTART:20181116T194500Z
+DTEND:20181116T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 20
+  - 7\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125236
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 20 - 7 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125236
+UID:match-2660@gainline.app
+DTSTART:20181123T194500Z
+DTEND:20181123T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 20
+  - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125236
+LOCATION:Sixways
+STATUS:CONFIRMED
+SUMMARY:Worcester Warriors 20 - 13 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125543
+UID:match-2665@gainline.app
+DTSTART:20181130T194500Z
+DTEND:20181130T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 28
+  - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125543
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 28 - 26 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130124
+UID:match-2673@gainline.app
+DTSTART:20181222T150000Z
+DTEND:20181222T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 3
+ 5 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130124
+LOCATION:Welford Road
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 35 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130126
+UID:match-2680@gainline.app
+DTSTART:20181229T160000Z
+DTEND:20181229T190000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 2
+ 0 - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130126
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 20 - 13 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130128
+UID:match-2686@gainline.app
+DTSTART:20190105T150000Z
+DTEND:20190105T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 1
+ 7 - 38\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130128
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 17 - 38 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125241
+UID:match-2693@gainline.app
+DTSTART:20190216T150000Z
+DTEND:20190216T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 4
+ 7 - 33\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125241
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 47 - 33 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130131
+UID:match-2696@gainline.app
+DTSTART:20190223T140000Z
+DTEND:20190223T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 3
+ 6 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130131
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 36 - 26 Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130137
+UID:match-2702@gainline.app
+DTSTART:20190302T150000Z
+DTEND:20190302T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 2
+ 9 - 31\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130137
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 29 - 31 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130141
+UID:match-2712@gainline.app
+DTSTART:20190310T130000Z
+DTEND:20190310T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 7
+  - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130141
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 7 - 29 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130143
+UID:match-2716@gainline.app
+DTSTART:20190323T150000Z
+DTEND:20190323T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 2
+ 7 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130143
+LOCATION:London Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 27 - 20 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125245
+UID:match-2719@gainline.app
+DTSTART:20190405T184500Z
+DTEND:20190405T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 2
+ 8 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125245
+LOCATION:AJ Bell Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 28 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125901
+UID:match-2727@gainline.app
+DTSTART:20190413T140000Z
+DTEND:20190413T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 1
+ 9 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125901
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 19 - 20 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130149
+UID:match-2733@gainline.app
+DTSTART:20190427T130000Z
+DTEND:20190427T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 1
+ 7 - 15\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130149
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 17 - 15 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125603
+UID:match-2738@gainline.app
+DTSTART:20190503T184500Z
+DTEND:20190503T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 21\nScore: 2
+ 3 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125603
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 23 - 19 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125248
+UID:match-2747@gainline.app
+DTSTART:20190518T150000Z
+DTEND:20190518T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 2
+ 7 - 25\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125248
+LOCATION:Ricoh Arena
+STATUS:CONFIRMED
+SUMMARY:Wasps 27 - 25 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130157
+UID:match-2756@gainline.app
+DTSTART:20170902T154500Z
+DTEND:20170902T184500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 39
+  - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130157
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:London Irish 39 - 29 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125610
+UID:match-2761@gainline.app
+DTSTART:20170909T140000Z
+DTEND:20170909T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 28
+  - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125610
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 28 - 17 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125250
+UID:match-2769@gainline.app
+DTSTART:20170917T140000Z
+DTEND:20170917T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 21
+  - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125250
+LOCATION:Coventry Building Society Arena
+STATUS:CONFIRMED
+SUMMARY:Wasps 21 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130203
+UID:match-2772@gainline.app
+DTSTART:20170923T140000Z
+DTEND:20170923T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 28
+  - 31\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130203
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 28 - 31 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130205
+UID:match-2780@gainline.app
+DTSTART:20170930T140000Z
+DTEND:20170930T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 30
+  - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130205
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 30 - 22 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125614
+UID:match-2782@gainline.app
+DTSTART:20171006T184500Z
+DTEND:20171006T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 42
+  - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125614
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 42 - 26 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130212
+UID:match-2789@gainline.app
+DTSTART:20171028T140000Z
+DTEND:20171028T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 41
+  - 35\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130212
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 41 - 35 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125911
+UID:match-2798@gainline.app
+DTSTART:20171119T150000Z
+DTEND:20171119T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 31
+  - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125911
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 31 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125255
+UID:match-2801@gainline.app
+DTSTART:20171125T124500Z
+DTEND:20171125T154500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 38
+  - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125255
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 38 - 14 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130302
+UID:match-2811@gainline.app
+DTSTART:20171203T150000Z
+DTEND:20171203T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 2
+ 0 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130302
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 20 - 19 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125259
+UID:match-2813@gainline.app
+DTSTART:20171223T150000Z
+DTEND:20171223T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 1
+ 1 - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125259
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 11 - 10 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125642
+UID:match-2822@gainline.app
+DTSTART:20171230T160000Z
+DTEND:20171230T190000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 5
+ 0 - 21\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125642
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 50 - 21 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130304
+UID:match-2827@gainline.app
+DTSTART:20180106T150000Z
+DTEND:20180106T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 3
+ 0 - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130304
+LOCATION:AJ Bell Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 30 - 29 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125304
+UID:match-2835@gainline.app
+DTSTART:20180211T130000Z
+DTEND:20180211T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 2
+ 2 - 44\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125304
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 22 - 44 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125644
+UID:match-2838@gainline.app
+DTSTART:20180217T150000Z
+DTEND:20180217T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 3
+ 3 - 18\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125644
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 33 - 18 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125645
+UID:match-2845@gainline.app
+DTSTART:20180224T143000Z
+DTEND:20180224T173000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 1
+ 0 - 28\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125645
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 10 - 28 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125933
+UID:match-2851@gainline.app
+DTSTART:20180304T150000Z
+DTEND:20180304T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 2
+ 0 - 5\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125933
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 20 - 5 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125311
+UID:match-2857@gainline.app
+DTSTART:20180324T150000Z
+DTEND:20180324T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 2
+ 4 - 11\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125311
+LOCATION:London Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 24 - 11 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130643
+UID:match-2863@gainline.app
+DTSTART:20180407T140000Z
+DTEND:20180407T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 5
+  - 35\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130643
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 5 - 35 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130229
+UID:match-2867@gainline.app
+DTSTART:20180414T140000Z
+DTEND:20180414T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 3
+ 7 - 9\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130229
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 37 - 9 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125934
+UID:match-2875@gainline.app
+DTSTART:20180428T140000Z
+DTEND:20180428T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 21\nScore: 4
+ 4 - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125934
+LOCATION:Sixways
+STATUS:CONFIRMED
+SUMMARY:Worcester Warriors 44 - 13 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125314
+UID:match-2879@gainline.app
+DTSTART:20180505T150000Z
+DTEND:20180505T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 1
+ 7 - 41\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125314
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 17 - 41 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130523
+UID:match-2891@gainline.app
+DTSTART:20160903T153000Z
+DTEND:20160903T183000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 21
+  - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130523
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 21 - 19 Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130644
+UID:match-2894@gainline.app
+DTSTART:20160909T191500Z
+DTEND:20160909T221500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 19
+  - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130644
+LOCATION:AJ Bell Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 19 - 10 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130537
+UID:match-2901@gainline.app
+DTSTART:20160917T140000Z
+DTEND:20160917T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 36
+  - 25\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130537
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 36 - 25 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125316
+UID:match-2907@gainline.app
+DTSTART:20160924T140000Z
+DTEND:20160924T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 17
+  - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125316
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 17 - 10 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125650
+UID:match-2915@gainline.app
+DTSTART:20161002T133000Z
+DTEND:20161002T163000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 47
+  - 18\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125650
+LOCATION:Ricoh Arena
+STATUS:CONFIRMED
+SUMMARY:Wasps 47 - 18 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125649
+UID:match-2919@gainline.app
+DTSTART:20161008T140000Z
+DTEND:20161008T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 20
+  - 9\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125649
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 20 - 9 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125318
+UID:match-2924@gainline.app
+DTSTART:20161029T140000Z
+DTEND:20161029T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 36
+  - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125318
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 36 - 14 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125319
+UID:match-2934@gainline.app
+DTSTART:20161120T150000Z
+DTEND:20161120T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 25
+  - 6\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125319
+LOCATION:Welford Road
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 25 - 6 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125656
+UID:match-2940@gainline.app
+DTSTART:20161127T151500Z
+DTEND:20161127T181500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 21
+  - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125656
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 21 - 20 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125657
+UID:match-2946@gainline.app
+DTSTART:20161204T150000Z
+DTEND:20161204T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 3
+ 8 - 32\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125657
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 38 - 32 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125658
+UID:match-2952@gainline.app
+DTSTART:20161227T160000Z
+DTEND:20161227T190000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 2
+ 8 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125658
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 28 - 24 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125659
+UID:match-2958@gainline.app
+DTSTART:20170101T150000Z
+DTEND:20170101T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 2
+ 4 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125659
+LOCATION:Sixways
+STATUS:CONFIRMED
+SUMMARY:Worcester Warriors 24 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125700
+UID:match-2961@gainline.app
+DTSTART:20170107T150000Z
+DTEND:20170107T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 2
+ 9 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125700
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 29 - 26 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125322
+UID:match-2965@gainline.app
+DTSTART:20170210T194500Z
+DTEND:20170210T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 8
+  - 42\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125322
+LOCATION:Ashton Gate
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 8 - 42 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125702
+UID:match-2972@gainline.app
+DTSTART:20170218T150000Z
+DTEND:20170218T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 2
+ 2 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125702
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 22 - 12 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125704
+UID:match-2977@gainline.app
+DTSTART:20170224T194500Z
+DTEND:20170224T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 1
+ 8 - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125704
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 18 - 27 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125708
+UID:match-2986@gainline.app
+DTSTART:20170304T150000Z
+DTEND:20170304T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 2
+ 7 - 30\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125708
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 27 - 30 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125709
+UID:match-2991@gainline.app
+DTSTART:20170325T150000Z
+DTEND:20170325T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 5
+ 3 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125709
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 53 - 17 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125711
+UID:match-2999@gainline.app
+DTSTART:20170408T153000Z
+DTEND:20170408T183000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 4
+ 0 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125711
+LOCATION:Wembley Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 40 - 19 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125712
+UID:match-3001@gainline.app
+DTSTART:20170414T184500Z
+DTEND:20170414T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 2
+ 6 - 39\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125712
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 26 - 39 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125712
+UID:match-3007@gainline.app
+DTSTART:20170428T184500Z
+DTEND:20170428T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 21\nScore: 3
+ 2 - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125712
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 32 - 13 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125327
+UID:match-3015@gainline.app
+DTSTART:20170506T150000Z
+DTEND:20170506T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 2
+ 2 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125327
+LOCATION:Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 22 - 20 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125327
+UID:match-3022@gainline.app
+DTSTART:20151016T184500Z
+DTEND:20151016T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 26
+  - 21\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125327
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 26 - 21 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125717
+UID:match-3033@gainline.app
+DTSTART:20151025T140000Z
+DTEND:20151025T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 22
+  - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125717
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 22 - 19 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125718
+UID:match-3035@gainline.app
+DTSTART:20151031T133000Z
+DTEND:20151031T163000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 28
+  - 38\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125718
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 28 - 38 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125719
+UID:match-3040@gainline.app
+DTSTART:20151106T194500Z
+DTEND:20151106T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 16
+  - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125719
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 16 - 14 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125334
+UID:match-3048@gainline.app
+DTSTART:20151128T150000Z
+DTEND:20151128T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 26
+  - 25\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125334
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 26 - 25 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125719
+UID:match-3053@gainline.app
+DTSTART:20151205T150000Z
+DTEND:20151205T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 38
+  - 7\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125719
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 38 - 7 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125336
+UID:match-3063@gainline.app
+DTSTART:20151227T163000Z
+DTEND:20151227T193000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 39
+  - 39\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125336
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 39 - 39 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125722
+UID:match-3069@gainline.app
+DTSTART:20160103T150000Z
+DTEND:20160103T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 20
+  - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125722
+LOCATION:Sixways
+STATUS:CONFIRMED
+SUMMARY:Worcester Warriors 20 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125336
+UID:match-3071@gainline.app
+DTSTART:20160109T150000Z
+DTEND:20160109T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 29
+  - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125336
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 29 - 23 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125724
+UID:match-3079@gainline.app
+DTSTART:20160131T150000Z
+DTEND:20160131T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 2
+ 6 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125724
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 26 - 19 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125725
+UID:match-3082@gainline.app
+DTSTART:20160206T140000Z
+DTEND:20160206T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 2
+ 3 - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125725
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 23 - 27 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125727
+UID:match-3089@gainline.app
+DTSTART:20160213T150000Z
+DTEND:20160213T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 2
+ 8 - 6\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125727
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 28 - 6 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125337
+UID:match-3093@gainline.app
+DTSTART:20160219T194500Z
+DTEND:20160219T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 2
+ 5 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125337
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 25 - 19 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125338
+UID:match-3104@gainline.app
+DTSTART:20160228T151500Z
+DTEND:20160228T181500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 4
+ 2 - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125338
+LOCATION:Coventry Building Society Arena
+STATUS:CONFIRMED
+SUMMARY:Wasps 42 - 10 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125732
+UID:match-3106@gainline.app
+DTSTART:20160305T143000Z
+DTEND:20160305T173000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 2
+ 9 - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125732
+LOCATION:AJ Bell Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 29 - 23 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125733
+UID:match-3111@gainline.app
+DTSTART:20160311T194500Z
+DTEND:20160311T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 3
+ 5 - 28\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125733
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 35 - 28 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125736
+UID:match-3118@gainline.app
+DTSTART:20160319T150000Z
+DTEND:20160319T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 1
+ 5 - 21\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125736
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 15 - 21 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125345
+UID:match-3128@gainline.app
+DTSTART:20160327T141500Z
+DTEND:20160327T171500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 2
+ 9 - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125345
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 29 - 23 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130512
+UID:match-3131@gainline.app
+DTSTART:20160402T140000Z
+DTEND:20160402T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 4
+ 6 - 25\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130512
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 46 - 25 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125741
+UID:match-3137@gainline.app
+DTSTART:20160416T141500Z
+DTEND:20160416T171500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 2
+ 2 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125741
+LOCATION:Wembley Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 22 - 12 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125937
+UID:match-3146@gainline.app
+DTSTART:20160501T140000Z
+DTEND:20160501T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 21\nScore: 2
+ 5 - 32\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125937
+LOCATION:Madejski Stadium
+STATUS:CONFIRMED
+SUMMARY:London Irish 25 - 32 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130309
+UID:match-3150@gainline.app
+DTSTART:20160507T143000Z
+DTEND:20160507T173000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 2
+ 4 - 62\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130309
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 24 - 62 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130526
+UID:match-3161@gainline.app
+DTSTART:20140906T153000Z
+DTEND:20140906T183000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 15
+  - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130526
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:London Irish 15 - 20 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125353
+UID:match-3163@gainline.app
+DTSTART:20140912T184500Z
+DTEND:20140912T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 0 
+ - 39\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125353
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 0 - 39 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125356
+UID:match-3171@gainline.app
+DTSTART:20140920T140000Z
+DTEND:20140920T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 26
+  - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125356
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 26 - 23 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125750
+UID:match-3179@gainline.app
+DTSTART:20140928T130000Z
+DTEND:20140928T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 36
+  - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125750
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 36 - 13 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125400
+UID:match-3182@gainline.app
+DTSTART:20141004T140000Z
+DTEND:20141004T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 52
+  - 0\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125400
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 52 - 0 London Welsh
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130315
+UID:match-3187@gainline.app
+DTSTART:20141010T184500Z
+DTEND:20141010T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 22
+  - 16\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130315
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 22 - 16 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125408
+UID:match-3193@gainline.app
+DTSTART:20141114T194500Z
+DTEND:20141114T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 15
+  - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125408
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 15 - 22 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125414
+UID:match-3199@gainline.app
+DTSTART:20141121T194500Z
+DTEND:20141121T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 12
+  - 16\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125414
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 12 - 16 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130352
+UID:match-3205@gainline.app
+DTSTART:20141128T194500Z
+DTEND:20141128T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 25
+  - 6\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130352
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 25 - 6 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130421
+UID:match-3212@gainline.app
+DTSTART:20141220T150000Z
+DTEND:20141220T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 1
+ 5 - 7\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130421
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 15 - 7 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130354
+UID:match-3221@gainline.app
+DTSTART:20141227T163000Z
+DTEND:20141227T193000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 2
+ 5 - 30\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130354
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 25 - 30 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125424
+UID:match-3228@gainline.app
+DTSTART:20150104T143000Z
+DTEND:20150104T173000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 1
+ 3 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125424
+LOCATION:Kassam Stadium
+STATUS:CONFIRMED
+SUMMARY:London Welsh 13 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130628
+UID:match-3232@gainline.app
+DTSTART:20150110T151500Z
+DTEND:20150110T181500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 3
+ 2 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130628
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 32 - 12 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130443
+UID:match-3240@gainline.app
+DTSTART:20150215T140000Z
+DTEND:20150215T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 3
+ 7 - 6\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130443
+LOCATION:Coventry Building Society Arena
+STATUS:CONFIRMED
+SUMMARY:Wasps 37 - 6 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125951
+UID:match-3244@gainline.app
+DTSTART:20150221T150000Z
+DTEND:20150221T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 2
+ 1 - 32\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125951
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 21 - 32 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125431
+UID:match-3247@gainline.app
+DTSTART:20150227T194500Z
+DTEND:20150227T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 1
+ 7 - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125431
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 17 - 13 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130244
+UID:match-3255@gainline.app
+DTSTART:20150307T150000Z
+DTEND:20150307T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 2
+ 6 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130244
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 26 - 20 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125953
+UID:match-3262@gainline.app
+DTSTART:20150328T151500Z
+DTEND:20150328T181500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 4
+ 2 - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125953
+LOCATION:Wembley Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 42 - 14 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130359
+UID:match-3266@gainline.app
+DTSTART:20150411T140000Z
+DTEND:20150411T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 2
+ 9 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130359
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 29 - 26 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125438
+UID:match-3272@gainline.app
+DTSTART:20150425T130000Z
+DTEND:20150425T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 2
+ 3 - 25\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125438
+LOCATION:AJ Bell Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 23 - 25 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125803
+UID:match-3277@gainline.app
+DTSTART:20150508T184500Z
+DTEND:20150508T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 21\nScore: 2
+ 6 - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125803
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 26 - 27 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125804
+UID:match-3288@gainline.app
+DTSTART:20150516T143000Z
+DTEND:20150516T173000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 3
+ 7 - 21\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125804
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 37 - 21 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130529
+UID:match-3296@gainline.app
+DTSTART:20130907T153000Z
+DTEND:20130907T183000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 15
+  - 16\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130529
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Wasps 15 - 16 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130402
+UID:match-3298@gainline.app
+DTSTART:20130913T184500Z
+DTEND:20130913T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 6 
+ - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130402
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 6 - 13 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130631
+UID:match-3304@gainline.app
+DTSTART:20130920T184500Z
+DTEND:20130920T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 13
+  - 37\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130631
+LOCATION:Sixways
+STATUS:CONFIRMED
+SUMMARY:Worcester Warriors 13 - 37 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125444
+UID:match-3313@gainline.app
+DTSTART:20130928T141500Z
+DTEND:20130928T171500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 12
+  - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125444
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 12 - 22 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125446
+UID:match-3317@gainline.app
+DTSTART:20131005T140000Z
+DTEND:20131005T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 18
+  - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125446
+LOCATION:Madejski Stadium
+STATUS:CONFIRMED
+SUMMARY:London Irish 18 - 13 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125808
+UID:match-3324@gainline.app
+DTSTART:20131026T140000Z
+DTEND:20131026T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 24
+  - 3\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125808
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 24 - 3 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125812
+UID:match-3331@gainline.app
+DTSTART:20131102T173000Z
+DTEND:20131102T203000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 16
+  - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125812
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 16 - 23 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125814
+UID:match-3336@gainline.app
+DTSTART:20131123T150000Z
+DTEND:20131123T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 27
+  - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125814
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 27 - 19 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125815
+UID:match-3345@gainline.app
+DTSTART:20131201T143000Z
+DTEND:20131201T173000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 9 
+ - 35\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125815
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 9 - 35 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130633
+UID:match-3347@gainline.app
+DTSTART:20131221T150000Z
+DTEND:20131221T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 1
+ 4 - 3\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130633
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 14 - 3 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125452
+UID:match-3356@gainline.app
+DTSTART:20131228T160000Z
+DTEND:20131228T190000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 2
+ 2 - 6\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125452
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 22 - 6 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125816
+UID:match-3359@gainline.app
+DTSTART:20140103T194500Z
+DTEND:20140103T224500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 2
+ 3 - 9\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125816
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 23 - 9 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130002
+UID:match-3369@gainline.app
+DTSTART:20140209T130000Z
+DTEND:20140209T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 1
+ 1 - 10\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130002
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 11 - 10 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130006
+UID:match-3371@gainline.app
+DTSTART:20140215T150000Z
+DTEND:20140215T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 1
+ 8 - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130006
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 18 - 14 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130007
+UID:match-3377@gainline.app
+DTSTART:20140222T140000Z
+DTEND:20140222T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 2
+ 5 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130007
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 25 - 20 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130010
+UID:match-3384@gainline.app
+DTSTART:20140301T150000Z
+DTEND:20140301T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 2
+ 1 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130010
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 21 - 20 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130013
+UID:match-3391@gainline.app
+DTSTART:20140322T151500Z
+DTEND:20140322T181500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 3
+ 9 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130013
+LOCATION:Wembley Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 39 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130014
+UID:match-3396@gainline.app
+DTSTART:20140329T150000Z
+DTEND:20140329T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 2
+ 3 - 9\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130014
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 23 - 9 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130016
+UID:match-3400@gainline.app
+DTSTART:20140411T184500Z
+DTEND:20140411T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 19\nScore: 1
+ 2 - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130016
+LOCATION:AJ Bell Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 12 - 27 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130017
+UID:match-3406@gainline.app
+DTSTART:20140418T184500Z
+DTEND:20140418T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 20\nScore: 2
+ 4 - 20\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130017
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 24 - 20 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125500
+UID:match-3417@gainline.app
+DTSTART:20140504T130000Z
+DTEND:20140504T160000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 21\nScore: 2
+ 9 - 30\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125500
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 29 - 30 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130021
+UID:match-3418@gainline.app
+DTSTART:20140510T141500Z
+DTEND:20140510T171500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 22\nScore: 1
+ 9 - 16\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130021
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 19 - 16 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125824
+UID:match-3425@gainline.app
+DTSTART:20140517T130000Z
+DTEND:20140517T160000Z
+DESCRIPTION:English Premiership\nStage: SF\nRound: 23\nScore: 31 - 17\nStat
+ us: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125824
+LOCATION:StoneX Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 31 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130027
+UID:match-3427@gainline.app
+DTSTART:20120901T130000Z
+DTEND:20120901T160000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 1\nSc
+ ore: 40 - 42\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130027
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Wasps 40 - 42 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130029
+UID:match-3433@gainline.app
+DTSTART:20120907T184500Z
+DTEND:20120907T214500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 2\nSc
+ ore: 40 - 3\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130029
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 40 - 3 London Welsh
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125826
+UID:match-3441@gainline.app
+DTSTART:20120915T140000Z
+DTEND:20120915T170000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 3\nSc
+ ore: 37 - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125826
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 37 - 14 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130032
+UID:match-3449@gainline.app
+DTSTART:20120922T163000Z
+DTEND:20120922T193000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 4\nSc
+ ore: 9 - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130032
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 9 - 22 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125507
+UID:match-3455@gainline.app
+DTSTART:20120930T130000Z
+DTEND:20120930T160000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 5\nSc
+ ore: 16 - 18\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125507
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 16 - 18 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130033
+UID:match-3459@gainline.app
+DTSTART:20121006T140000Z
+DTEND:20121006T170000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 6\nSc
+ ore: 42 - 28\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130033
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 42 - 28 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130035
+UID:match-3467@gainline.app
+DTSTART:20121028T141500Z
+DTEND:20121028T171500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 7\nSc
+ ore: 28 - 31\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130035
+LOCATION:Madejski Stadium
+STATUS:CONFIRMED
+SUMMARY:London Irish 28 - 31 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130035
+UID:match-3472@gainline.app
+DTSTART:20121103T171500Z
+DTEND:20121103T201500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 8\nSc
+ ore: 28 - 25\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130035
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 28 - 25 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125828
+UID:match-3475@gainline.app
+DTSTART:20121123T194500Z
+DTEND:20121123T224500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 9\nSc
+ ore: 21 - 18\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125828
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 21 - 18 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130037
+UID:match-3481@gainline.app
+DTSTART:20121130T194500Z
+DTEND:20121130T224500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 10\nS
+ core: 22 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130037
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 22 - 19 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130038
+UID:match-3491@gainline.app
+DTSTART:20121222T151500Z
+DTEND:20121222T181500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 11\nS
+ core: 9 - 18\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130038
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 9 - 18 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130039
+UID:match-3494@gainline.app
+DTSTART:20121229T141500Z
+DTEND:20121229T171500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 12\nS
+ core: 26 - 15\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130039
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 26 - 15 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130040
+UID:match-3502@gainline.app
+DTSTART:20130106T150000Z
+DTEND:20130106T180000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 13\nS
+ core: 26 - 31\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130040
+LOCATION:Kassam Stadium
+STATUS:CONFIRMED
+SUMMARY:London Welsh 26 - 31 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130041
+UID:match-3510@gainline.app
+DTSTART:20130209T200000Z
+DTEND:20130209T230000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 14\nS
+ core: 16 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130041
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 16 - 17 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130042
+UID:match-3514@gainline.app
+DTSTART:20130216T171500Z
+DTEND:20130216T201500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 15\nS
+ core: 25 - 21\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130042
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 25 - 21 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130043
+UID:match-3518@gainline.app
+DTSTART:20130222T200000Z
+DTEND:20130222T230000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 16\nS
+ core: 21 - 30\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130043
+LOCATION:AJ Bell Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 21 - 30 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130044
+UID:match-3527@gainline.app
+DTSTART:20130302T151500Z
+DTEND:20130302T181500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 17\nS
+ core: 16 - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130044
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 16 - 27 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130044
+UID:match-3534@gainline.app
+DTSTART:20130324T140000Z
+DTEND:20130324T170000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 18\nS
+ core: 27 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130044
+LOCATION:StoneX Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 27 - 12 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130045
+UID:match-3535@gainline.app
+DTSTART:20130329T194500Z
+DTEND:20130329T224500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 19\nS
+ core: 17 - 15\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130045
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 17 - 15 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130046
+UID:match-3542@gainline.app
+DTSTART:20130413T131500Z
+DTEND:20130413T161500Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 20\nS
+ core: 23 - 9\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130046
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 23 - 9 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130047
+UID:match-3550@gainline.app
+DTSTART:20130420T140000Z
+DTEND:20130420T170000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 21\nS
+ core: 26 - 42\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130047
+LOCATION:Sixways
+STATUS:CONFIRMED
+SUMMARY:Worcester Warriors 26 - 42 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125833
+UID:match-3555@gainline.app
+DTSTART:20130504T133000Z
+DTEND:20130504T163000Z
+DESCRIPTION:English Premiership\nStage: Gallagher Premiership\nRound: 22\nS
+ core: 22 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125833
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 22 - 19 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130049
+UID:match-3559@gainline.app
+DTSTART:20130511T140000Z
+DTEND:20130511T170000Z
+DESCRIPTION:English Premiership\nStage: SF\nRound: 23\nScore: 33 - 16\nStat
+ us: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130049
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 33 - 16 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130048
+UID:match-3562@gainline.app
+DTSTART:20110903T130000Z
+DTEND:20110903T160000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 1\nScore:
+  24 - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130048
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:London Irish 24 - 29 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130050
+UID:match-3569@gainline.app
+DTSTART:20110909T184500Z
+DTEND:20110909T214500Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 2\nScore:
+  26 - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130050
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 26 - 13 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130050
+UID:match-3574@gainline.app
+DTSTART:20110917T140000Z
+DTEND:20110917T170000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 3\nScore:
+  42 - 6\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130050
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 42 - 6 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130051
+UID:match-3584@gainline.app
+DTSTART:20110924T140000Z
+DTEND:20110924T170000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 4\nScore:
+  15 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130051
+LOCATION:Sixways
+STATUS:CONFIRMED
+SUMMARY:Worcester Warriors 15 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125520
+UID:match-3589@gainline.app
+DTSTART:20111001T140000Z
+DTEND:20111001T170000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 5\nScore:
+  48 - 41\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125520
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 48 - 41 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130052
+UID:match-3594@gainline.app
+DTSTART:20111008T154500Z
+DTEND:20111008T184500Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 6\nScore:
+  18 - 27\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130052
+LOCATION:Welford Road
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 18 - 27 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125835
+UID:match-3601@gainline.app
+DTSTART:20111029T140000Z
+DTEND:20111029T170000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 7\nScore:
+  19 - 13\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125835
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 19 - 13 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130425
+UID:match-3605@gainline.app
+DTSTART:20111105T141500Z
+DTEND:20111105T171500Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 8\nScore:
+  13 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130425
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 13 - 26 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130446
+UID:match-3615@gainline.app
+DTSTART:20111127T150000Z
+DTEND:20111127T180000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 9\nScore:
+  39 - 8\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130446
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 39 - 8 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130054
+UID:match-3621@gainline.app
+DTSTART:20111204T160000Z
+DTEND:20111204T190000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 10\nScore
+ : 16 - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130054
+LOCATION:Adams Park
+STATUS:CONFIRMED
+SUMMARY:Wasps 16 - 22 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130054
+UID:match-3627@gainline.app
+DTSTART:20111227T163000Z
+DTEND:20111227T193000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 11\nScore
+ : 11 - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130054
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 11 - 19 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130249
+UID:match-3629@gainline.app
+DTSTART:20111231T154500Z
+DTEND:20111231T184500Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 12\nScore
+ : 9 - 11\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130249
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 9 - 11 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130054
+UID:match-3634@gainline.app
+DTSTART:20120106T194500Z
+DTEND:20120106T224500Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 13\nScore
+ : 24 - 3\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130054
+LOCATION:Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 24 - 3 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130055
+UID:match-3641@gainline.app
+DTSTART:20120211T140000Z
+DTEND:20120211T170000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 14\nScore
+ : 30 - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130055
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 30 - 23 London Irish
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130056
+UID:match-3650@gainline.app
+DTSTART:20120218T173000Z
+DTEND:20120218T203000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 15\nScore
+ : 16 - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130056
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 16 - 14 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125838
+UID:match-3655@gainline.app
+DTSTART:20120225T180000Z
+DTEND:20120225T210000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 16\nScore
+ : 29 - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125838
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 29 - 23 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130101
+UID:match-3658@gainline.app
+DTSTART:20120302T194500Z
+DTEND:20120302T224500Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 17\nScore
+ : 9 - 9\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130101
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 9 - 9 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130103
+UID:match-3666@gainline.app
+DTSTART:20120324T141500Z
+DTEND:20120324T171500Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 18\nScore
+ : 14 - 6\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130103
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 14 - 6 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125839
+UID:match-3672@gainline.app
+DTSTART:20120331T140000Z
+DTEND:20120331T170000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 19\nScore
+ : 19 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125839
+LOCATION:Wembley Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 19 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130104
+UID:match-3681@gainline.app
+DTSTART:20120414T153000Z
+DTEND:20120414T183000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 20\nScore
+ : 33 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130104
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 33 - 17 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T125529
+UID:match-3686@gainline.app
+DTSTART:20120421T141500Z
+DTEND:20120421T171500Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 21\nScore
+ : 33 - 43\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T125529
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 33 - 43 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130106
+UID:match-3689@gainline.app
+DTSTART:20120505T130000Z
+DTEND:20120505T160000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 22\nScore
+ : 10 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130106
+LOCATION:Edgeley Park
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 10 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130107
+UID:match-3694@gainline.app
+DTSTART:20120512T134500Z
+DTEND:20120512T164500Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 23\nScore
+ : 25 - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130107
+LOCATION:The Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 25 - 23 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T130107
+UID:match-3696@gainline.app
+DTSTART:20120526T140000Z
+DTEND:20120526T170000Z
+DESCRIPTION:English Premiership\nStage: Aviva Premiership\nRound: 24\nScore
+ : 30 - 23\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250415T130107
+LOCATION:Twickenham
+STATUS:CONFIRMED
+SUMMARY:Harlequins 30 - 23 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250620T081821
+UID:match-4368@gainline.app
+DTSTART:20231007T131500Z
+DTEND:20231007T161500Z
+DESCRIPTION:International Tour\nScore: 0 - 0\nStatus: full_time\n\nPowered 
+ by Gainline.
+LAST-MODIFIED:20250620T081821
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins 0 - 0 Barbarians
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250927T140535
+UID:match-4384@gainline.app
+DTSTART:20250926T184500Z
+DTEND:20250926T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 31
+  - 47\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20250927T140535
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 31 - 47 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251004T160440
+UID:match-4390@gainline.app
+DTSTART:20251004T140500Z
+DTEND:20251004T170500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 29
+  - 19\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20251004T160440
+LOCATION:Mattioli Woods Welford Road Stadium
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers 29 - 19 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251012T172730
+UID:match-4397@gainline.app
+DTSTART:20251012T140000Z
+DTEND:20251012T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 20
+  - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20251012T172730
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 20 - 14 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251019T155942
+UID:match-4402@gainline.app
+DTSTART:20251019T140000Z
+DTEND:20251019T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 38
+  - 0\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20251019T155942
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs 38 - 0 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T160845
+UID:match-4405@gainline.app
+DTSTART:20251025T140000Z
+DTEND:20251025T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\nScore: 52
+  - 14\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20251025T160845
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 52 - 14 Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T165033
+UID:match-4410@gainline.app
+DTSTART:20251129T150000Z
+DTEND:20251129T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 6\nScore: 26
+  - 15\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20251129T165033
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 26 - 15 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251220T195712
+UID:match-4416@gainline.app
+DTSTART:20251220T180000Z
+DTEND:20251220T210000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 7\nScore: 14
+  - 40\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20251220T195712
+LOCATION:Allianz Stadium
+STATUS:CONFIRMED
+SUMMARY:Harlequins 14 - 40 Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251229T195342
+UID:match-4418@gainline.app
+DTSTART:20251226T173000Z
+DTEND:20251226T203000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 8\nScore: 43
+  - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20251229T195342
+LOCATION:CorpAcq Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 43 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260103T193612
+UID:match-4426@gainline.app
+DTSTART:20260103T173000Z
+DTEND:20260103T203000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 9\nScore: 66
+  - 21\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260103T193612
+LOCATION:cinch Stadium at Franklin's Gardens
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints 66 - 21 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260124T170610
+UID:match-4432@gainline.app
+DTSTART:20260124T150500Z
+DTEND:20260124T180500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 10\nScore: 7
+  - 34\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260124T170610
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 7 - 34 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260321T172031
+UID:match-4435@gainline.app
+DTSTART:20260321T150000Z
+DTEND:20260321T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 11\nScore: 1
+ 9 - 26\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260321T172031
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 19 - 26 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T172609
+UID:match-4438@gainline.app
+DTSTART:20260328T153000Z
+DTEND:20260328T183000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 12\nScore: 1
+ 4 - 18\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260328T172609
+LOCATION:Principality Stadium
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears 14 - 18 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T214851
+UID:match-4443@gainline.app
+DTSTART:20260418T163000Z
+DTEND:20260418T193000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 13\nScore: 4
+ 8 - 15\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260418T214851
+LOCATION:Recreation Ground
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby 48 - 15 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T182208
+UID:match-4449@gainline.app
+DTSTART:20260425T140000Z
+DTEND:20260425T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 14\nScore: 3
+ 3 - 52\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260425T182208
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 33 - 52 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T072109
+UID:match-4454@gainline.app
+DTSTART:20260510T140000Z
+DTEND:20260510T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 15\nScore: 1
+ 7 - 76\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260516T072109
+LOCATION:Kingston Park
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls 17 - 76 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T180130
+UID:match-4459@gainline.app
+DTSTART:20260516T150000Z
+DTEND:20260516T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 16\nScore: 4
+ 1 - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260516T180130
+LOCATION:Allianz Stadium
+STATUS:CONFIRMED
+SUMMARY:Harlequins 41 - 24 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260530T135115
+UID:match-4464@gainline.app
+DTSTART:20260530T120000Z
+DTEND:20260530T150000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 17\nScore: 2
+ 6 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260530T135115
+LOCATION:StoneX Stadium
+STATUS:CONFIRMED
+SUMMARY:Saracens 26 - 12 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T161405
+UID:match-4471@gainline.app
+DTSTART:20260606T141500Z
+DTEND:20260606T171500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 18\nScore: 3
+ 8 - 31\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260606T161405
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 38 - 31 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251214T131232
+UID:match-4833@gainline.app
+DTSTART:20251206T173000Z
+DTEND:20251206T203000Z
+DESCRIPTION:Investec Champions Cup\nStage: Pool 3\nRound: 1\nScore: 45 - 28
+ \nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20251214T131232
+LOCATION:Aviva Stadium
+STATUS:CONFIRMED
+SUMMARY:Leinster Rugby 45 - 28 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251214T200333
+UID:match-4847@gainline.app
+DTSTART:20251214T130000Z
+DTEND:20251214T160000Z
+DESCRIPTION:Investec Champions Cup\nStage: Pool 3\nRound: 2\nScore: 68 - 14
+ \nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20251214T200333
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 68 - 14 Bayonne
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260111T144411
+UID:match-4860@gainline.app
+DTSTART:20260111T130000Z
+DTEND:20260111T160000Z
+DESCRIPTION:Investec Champions Cup\nStage: Pool 3\nRound: 3\nScore: 61 - 10
+ \nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260111T144411
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 61 - 10 Stormers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260118T174451
+UID:match-4874@gainline.app
+DTSTART:20260118T151500Z
+DTEND:20260118T181500Z
+DESCRIPTION:Investec Champions Cup\nStage: Pool 3\nRound: 4\nScore: 17 - 27
+ \nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260118T174451
+LOCATION:Stade Marcel-Deflandre
+STATUS:CONFIRMED
+SUMMARY:Stade Rochelais 17 - 27 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260404T205609
+UID:match-4882@gainline.app
+DTSTART:20260404T190000Z
+DTEND:20260404T220000Z
+DESCRIPTION:Investec Champions Cup\nStage: R16\nRound: 5\nScore: 17 - 26\nS
+ tatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260404T205609
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 17 - 26 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T204407
+UID:match-5871@gainline.app
+DTSTART:20260925T184500Z
+DTEND:20260925T214500Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 1\nScore: 17
+  - 33\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260925T204407
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 17 - 33 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T182807
+UID:match-5877@gainline.app
+DTSTART:20261003T163000Z
+DTEND:20261003T193000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 2\nScore: 48
+  - 0\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261003T182807
+LOCATION:Kingsholm
+STATUS:CONFIRMED
+SUMMARY:Gloucester Rugby 48 - 0 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T155706
+UID:match-5884@gainline.app
+DTSTART:20261011T140000Z
+DTEND:20261011T170000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 3\nScore: 28
+  - 24\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261011T155706
+LOCATION:CorpAcq Stadium
+STATUS:CONFIRMED
+SUMMARY:Sale Sharks 28 - 24 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T183619
+UID:match-5889@gainline.app
+DTSTART:20261025T150000Z
+DTEND:20261025T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 33
+  - 15\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261025T183619
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 33 - 15 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T051007
+UID:match-5891@gainline.app
+DTSTART:20261031T150000Z
+DTEND:20261031T180000Z
+DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 5\n\nPowered
+  by Gainline.
+LAST-MODIFIED:20261026T051007
+LOCATION:Sandy Park
+STATUS:CONFIRMED
+SUMMARY:Exeter Chiefs vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5897@gainline.app
+DTSTART:20261205T150500Z
+DTEND:20261205T180500Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5904@gainline.app
+DTSTART:20261220T150000Z
+DTEND:20261220T180000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Bristol Bears vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5909@gainline.app
+DTSTART:20261228T170000Z
+DTEND:20261228T200000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5913@gainline.app
+DTSTART:20270102T173000Z
+DTEND:20270102T203000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5919@gainline.app
+DTSTART:20270123T000000Z
+DTEND:20270123T030000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5924@gainline.app
+DTSTART:20270320T000000Z
+DTEND:20270320T030000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Saracens vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5926@gainline.app
+DTSTART:20270327T000000Z
+DTEND:20270327T030000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5932@gainline.app
+DTSTART:20270417T000000Z
+DTEND:20270417T030000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5936@gainline.app
+DTSTART:20270424T000000Z
+DTEND:20270424T030000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs Bristol Bears
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5942@gainline.app
+DTSTART:20270508T000000Z
+DTEND:20270508T030000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5945@gainline.app
+DTSTART:20270515T000000Z
+DTEND:20270515T030000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Bath Rugby vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5952@gainline.app
+DTSTART:20270529T000000Z
+DTEND:20270529T030000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153435
+UID:match-5957@gainline.app
+DTSTART:20270605T130000Z
+DTEND:20270605T160000Z
+DESCRIPTION:English Premiership\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153435
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261019T071510
+UID:match-6465@gainline.app
+DTSTART:20261018T120000Z
+DTEND:20261018T150000Z
+DESCRIPTION:EPCR Challenge Cup\nStage: Pool 3\nRound: 1\nScore: 57 - 19\nSt
+ atus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261019T071510
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 57 - 19 RC Vannes
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153543
+UID:match-6467@gainline.app
+DTSTART:20261212T130000Z
+DTEND:20261212T160000Z
+DESCRIPTION:EPCR Challenge Cup\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153543
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Ospreys vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153543
+UID:match-6479@gainline.app
+DTSTART:20270109T130000Z
+DTEND:20270109T160000Z
+DESCRIPTION:EPCR Challenge Cup\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153543
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Edinburgh Rugby vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153544
+UID:match-6485@gainline.app
+DTSTART:20270115T200000Z
+DTEND:20270115T230000Z
+DESCRIPTION:EPCR Challenge Cup\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153544
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs RC Toulon
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260907T020507
+UID:match-6510@gainline.app
+DTSTART:20260905T140000Z
+DTEND:20260905T170000Z
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool B\nRound: 1\nScore: 45 - 21\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260907T020507
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 45 - 21 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260912T180606
+UID:match-6516@gainline.app
+DTSTART:20260912T154500Z
+DTEND:20260912T184500Z
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool B\nRound: 2\nScore: 29 - 14\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20260912T180606
+LOCATION:Twickenham Stoop
+STATUS:CONFIRMED
+SUMMARY:Harlequins 29 - 14 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153545
+UID:match-6523@gainline.app
+DTSTART:20261114T143000Z
+DTEND:20261114T173000Z
+DESCRIPTION:Premiership Rugby Cup\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153545
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Newcastle Red Bulls vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153545
+UID:match-6526@gainline.app
+DTSTART:20261121T120000Z
+DTEND:20261121T150000Z
+DESCRIPTION:Premiership Rugby Cup\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153545
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Saracens vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153545
+UID:match-6535@gainline.app
+DTSTART:20270206T150000Z
+DTEND:20270206T180000Z
+DESCRIPTION:Premiership Rugby Cup\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153545
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Leicester Tigers vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153545
+UID:match-6538@gainline.app
+DTSTART:20270212T194500Z
+DTEND:20270212T224500Z
+DESCRIPTION:Premiership Rugby Cup\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153545
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs Newcastle Red Bulls
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153545
+UID:match-6542@gainline.app
+DTSTART:20270219T194500Z
+DTEND:20270219T224500Z
+DESCRIPTION:Premiership Rugby Cup\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153545
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Northampton Saints vs Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260809T153545
+UID:match-6548@gainline.app
+DTSTART:20270227T150000Z
+DTEND:20270227T180000Z
+DESCRIPTION:Premiership Rugby Cup\n\nPowered by Gainline.
+LAST-MODIFIED:20260809T153545
+LOCATION:Venue TBD
+STATUS:CONFIRMED
+SUMMARY:Harlequins vs Saracens
+END:VEVENT
+END:VCALENDAR

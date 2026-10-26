@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gainline//Rugby Match Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rugby World Cup - Fixtures
+X-WR-CALDESC:Match fixtures for Rugby World Cup
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
