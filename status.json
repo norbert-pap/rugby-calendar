@@ -4,65 +4,65 @@
       "name": "Harlequins",
       "events": 377,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Hurricanes (NZ)",
       "events": 48,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Six Nations",
       "events": 15,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "The Rugby Championship",
       "events": 0,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "International Friendlies",
       "events": 5,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Rugby World Cup",
       "events": 36,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Nations Championship",
       "events": 18,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "The Lions Series",
       "events": 0,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Pacific Nations Cup",
       "events": 0,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Rugby Europe Championship",
       "events": 0,
       "fetched_at": "2026-10-27T15:45:03.466600+00:00",
-      "stale": false
+      "stale": true
     }
   ],
   "duplicates_removed": 0,
   "old_events_removed": 398,
   "events": 101,
-  "last_successful_refresh": "2026-10-27T15:45:03.466600+00:00"
+  "last_successful_refresh": "2026-10-27T18:25:49.545824+00:00"
 }
