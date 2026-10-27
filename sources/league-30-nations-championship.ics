@@ -7,13 +7,14 @@ X-WR-CALNAME:Nations Championship - Fixtures
 X-WR-CALDESC:Match fixtures for Nations Championship
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-DTSTAMP:20260829T114443
+DTSTAMP:20261027T210505
 UID:match-5676@gainline.app
 DTSTART:20261106T201000Z
 DTEND:20261106T231000Z
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.
-LAST-MODIFIED:20260829T114443
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\n\nP
+ owered by Gainline.
+LAST-MODIFIED:20261027T210505
+LOCATION:Aviva Stadium
 STATUS:CONFIRMED
 SUMMARY:Ireland vs Argentina
 END:VEVENT
