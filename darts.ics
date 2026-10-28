@@ -7,14 +7,14 @@ X-WR-CALDESC:Major PDC tournaments and published sessions. Source: CSWStat
  s. UK channel labels\; local times use DTSTART.
 X-WR-CALNAME:Darts — Major televised tournaments
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
-X-LAST-REFRESHED:20261027T183207Z
+X-LAST-REFRESHED:20261028T005125Z
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Budapest
 BEGIN:VEVENT
 SUMMARY:World Grand Prix (Sky Sports)
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:event-world-grand-prix-2026-09-28@cswdarts.co.uk
 DESCRIPTION:World Grand Prix\, 28 September to 4 October 2026. Live in the
   UK on Sky Sports. Won by Luke Humphries.
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:World Grand Prix: First round (Sky Sports)
 DTSTART:20260928T170000Z
 DTEND:20260928T200000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-world-grand-prix-2026-09-28-1800-first-round@cswdarts.co.uk
 DESCRIPTION:First round. Best of 3 sets. Order of play: Danny Noppert v Ni
  ko Springer\; Ross Smith v Cameron Menzies\; Nathan Aspinall v Kevin Doets
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:World Grand Prix: First round (Sky Sports)
 DTSTART:20260929T170000Z
 DTEND:20260929T200000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-world-grand-prix-2026-09-29-1800-first-round@cswdarts.co.uk
 DESCRIPTION:First round. Best of 3 sets. Order of play: Chris Dobey v Jerm
  aine Wattimena\; Ryan Searle v William O'Connor\; Josh Rock v Niels Zonnev
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:World Grand Prix: Second round (Sky Sports)
 DTSTART:20260930T180000Z
 DTEND:20260930T210000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-world-grand-prix-2026-09-30-1900-second-round@cswdarts.co.uk
 DESCRIPTION:Second round. Best of 5 sets. Start time as published\; the fi
  nish depends on the matches. Live in the UK on Sky Sports. Draw\, odds and
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:World Grand Prix: Second round (Sky Sports)
 DTSTART:20261001T180000Z
 DTEND:20261001T210000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-world-grand-prix-2026-10-01-1900-second-round@cswdarts.co.uk
 DESCRIPTION:Second round. Best of 5 sets. Start time as published\; the fi
  nish depends on the matches. Live in the UK on Sky Sports. Draw\, odds and
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:World Grand Prix: Quarter-finals (Sky Sports)
 DTSTART:20261002T180000Z
 DTEND:20261002T210000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-world-grand-prix-2026-10-02-1900-quarter-finals@cswdarts.co.uk
 DESCRIPTION:Quarter-finals. Best of 5 sets. Start time as published\; the 
  finish depends on the matches. Live in the UK on Sky Sports. Draw\, odds a
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:World Grand Prix: Semi-finals (Sky Sports)
 DTSTART:20261003T190000Z
 DTEND:20261003T220000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-world-grand-prix-2026-10-03-2000-semi-finals@cswdarts.co.uk
 DESCRIPTION:Semi-finals. Best of 9 sets. Start time as published\; the fin
  ish depends on the matches. Live in the UK on Sky Sports. Draw\, odds and 
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:World Grand Prix: Final (Sky Sports)
 DTSTART:20261004T190000Z
 DTEND:20261004T220000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-world-grand-prix-2026-10-04-2000-final@cswdarts.co.uk
 DESCRIPTION:Final. Best of 11 sets. Start time as published\; the finish d
  epends on the matches. Live in the UK on Sky Sports. Draw\, odds and resul
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship (ITV4)
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:event-european-championship-2026-10-22@cswdarts.co.uk
 DESCRIPTION:European Championship\, 22 to 25 October 2026. Live in the UK 
  on ITV4. Won by Ross Smith.
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship: First round (ITV4)
 DTSTART:20261022T170000Z
 DTEND:20261022T200000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-european-championship-2026-10-22-1800-first-round@cswdarts.co.
  uk
 DESCRIPTION:First round. Best of 11 legs. Order of play: Luke Woodhouse v 
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship: First round (ITV4)
 DTSTART:20261023T170000Z
 DTEND:20261023T200000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-european-championship-2026-10-23-1800-first-round@cswdarts.co.
  uk
 DESCRIPTION:First round. Best of 11 legs. Order of play: Ryan Joyce v Jerm
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Second round (ITV4)
 DTSTART:20261024T110000Z
 DTEND:20261024T140000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-european-championship-2026-10-24-1200-second-round@cswdarts.co
  .uk
 DESCRIPTION:Second round. Best of 19 legs. Start time as published\; the f
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Second round (ITV4)
 DTSTART:20261024T170000Z
 DTEND:20261024T200000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-european-championship-2026-10-24-1800-second-round@cswdarts.co
  .uk
 DESCRIPTION:Second round. Best of 19 legs. Start time as published\; the f
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Quarter-finals (ITV4)
 DTSTART:20261025T120000Z
 DTEND:20261025T150000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-european-championship-2026-10-25-1200-quarter-finals@cswdarts.
  co.uk
 DESCRIPTION:Quarter-finals. Best of 19 legs. Start time as published\; the
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Final (ITV4)
 DTSTART:20261025T180000Z
 DTEND:20261025T210000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-european-championship-2026-10-25-1800-final@cswdarts.co.uk
 DESCRIPTION:Final. Best of 21 legs. Start time as published\; the finish d
  epends on the matches. Live in the UK on ITV4. Draw\, odds and results: ht
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Semi-finals (ITV4)
 DTSTART:20261025T180000Z
 DTEND:20261025T210000Z
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:session-european-championship-2026-10-25-1800-semi-finals@cswdarts.co.
  uk
 DESCRIPTION:Semi-finals. Best of 21 legs. Start time as published\; the fi
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts (Sky Sports)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:event-grand-slam-of-darts-2026-11-14@cswdarts.co.uk
 DESCRIPTION:Grand Slam of Darts\, 14 to 22 November 2026. Live in the UK o
  n Sky Sports.
@@ -254,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Players Championship Finals (ITV4)
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:event-players-championship-finals-2026-11-27@cswdarts.co.uk
 DESCRIPTION:Players Championship Finals\, 27 to 29 November 2026. Live in 
  the UK on ITV4.
@@ -266,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:World Darts Championship (Sky Sports)
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261027T183207Z
+DTSTAMP:20261028T005126Z
 UID:event-world-darts-championship-2026-12-11@cswdarts.co.uk
 DESCRIPTION:World Darts Championship\, 11 December 2026 to 3 January 2027.
   Live in the UK on Sky Sports.
