@@ -3,66 +3,66 @@
     {
       "name": "Harlequins",
       "events": 377,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     },
     {
       "name": "Hurricanes (NZ)",
       "events": 48,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     },
     {
       "name": "Six Nations",
       "events": 15,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     },
     {
       "name": "The Rugby Championship",
       "events": 0,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     },
     {
       "name": "International Friendlies",
       "events": 5,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     },
     {
       "name": "Rugby World Cup",
       "events": 36,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     },
     {
       "name": "Nations Championship",
       "events": 18,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     },
     {
       "name": "The Lions Series",
       "events": 0,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     },
     {
       "name": "Pacific Nations Cup",
       "events": 0,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     },
     {
       "name": "Rugby Europe Championship",
       "events": 0,
-      "fetched_at": "2026-10-29T15:45:10.467982+00:00",
-      "stale": true
+      "fetched_at": "2026-10-29T21:45:04.094125+00:00",
+      "stale": false
     }
   ],
   "duplicates_removed": 0,
   "old_events_removed": 398,
   "events": 101,
-  "last_successful_refresh": "2026-10-29T18:27:32.059247+00:00"
+  "last_successful_refresh": "2026-10-29T21:45:04.094125+00:00"
 }
