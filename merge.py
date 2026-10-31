@@ -157,7 +157,7 @@ def refresh(output, now=None):
     for source, result in zip(stats['sources'], results):
         source['fetched_at'] = result[3].isoformat()
         source['stale'] = result[3] != now
-    stats['watch'] = watch.enrich(calendar, now)
+    stats['watch'] = watch.enrich(calendar, now, sport='rugby')
     payload = calendar.to_ical()
     if len(payload) >= 1_000_000:
         raise ValueError('Combined calendar exceeds Proton subscription size limit')

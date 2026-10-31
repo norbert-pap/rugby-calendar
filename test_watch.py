@@ -10,12 +10,13 @@ import watch
 
 NOW = datetime(2026, 10, 31, 12, tzinfo=timezone.utc)
 CATEGORIES = [{'category_id': '1', 'category_name': 'AU| STAN PPV'}]
-LISTING = {'category_id': '1', 'name': 'AU| STAN 12: Exeter v Harlequins (2026-11-01 01:55:50)'}
+LISTING = {'category_id': '1', 'name': 'AU| STAN 12: Exeter v Harlequins PREM Rugby (2026-11-01 01:55:50)'}
 CONFIG = json.dumps({'url': 'https://private.invalid', 'username': 'SECRET_USER', 'password': 'SECRET_PASS'})
 
 
 def fixture(title='Harlequins: Exeter Chiefs vs Harlequins', start=None):
     cal, event = Calendar(), Event()
+    cal.add('X-WR-CALNAME', 'Darts' if title.startswith('World Grand Prix') else 'Rugby')
     event.add('uid', 'original-uid')
     event.add('summary', title)
     event.add('dtstart', start or datetime(2026, 10, 31, 15, tzinfo=timezone.utc))
@@ -71,7 +72,7 @@ class WatchTests(unittest.TestCase):
             'STAN 12 Exeter v Bath; Harlequins v Sale 2026-11-01',
         ]:
             with self.subTest(name=name):
-                _, event, stats = self.enrich_with(listing_name=name)
+                _, event, stats = self.enrich_with(listing_name=name + ' Rugby')
                 self.assertNotIn('Watch on:', str(event['DESCRIPTION']))
                 self.assertEqual(stats['matched_events'], 0)
 
@@ -184,7 +185,7 @@ class WatchTests(unittest.TestCase):
             self.assertNotIn('SECRET_PASS', cal.to_ical().decode() + json.dumps(stats))
 
     def test_reversed_teams_and_full_alias_work(self):
-        _, event, _ = self.enrich_with(listing_name='AU (STAN 12) Harlequins vs Exeter Chiefs 2026-10-31')
+        _, event, _ = self.enrich_with(listing_name='AU (STAN 12) Harlequins vs Exeter Chiefs PREM Rugby 2026-10-31')
         self.assertIn('Watch on: STAN 12', str(event['DESCRIPTION']))
 
     def test_exact_imported_premier_exception(self):
@@ -192,3 +193,61 @@ class WatchTests(unittest.TestCase):
         self.assertTrue(watch.eligible('UK| SPORT LOW', 'Viaplay 1'))
         self.assertFalse(watch.eligible('UK| SPORT 4K', 'Sky Sports 1'))
         self.assertFalse(watch.eligible('FR| SPORT 4K', 'Premier Sports 1'))
+
+    def test_same_opponents_other_sport_and_replays_are_rejected(self):
+        for title in [
+            'STAN 12 France v England UEFA Nations League 2026-10-31',
+            'STAN 12 France v England Rugby replay 2026-10-31',
+            'STAN 12 France v England Rugby highlights 2026-10-31',
+            'STAN 12 France v England Classic Rugby 2026-10-31',
+            'STAN 12 France v England Rugby re-run 2026-10-31',
+            'STAN 12 France v England Rugby VOD 2026-10-31',
+            'STAN 12 France v England 2026-10-31',
+        ]:
+            with self.subTest(title=title):
+                _, event, _ = self.enrich_with(event_title='France vs England', listing_name=title)
+                self.assertNotIn('Watch on:', str(event['DESCRIPTION']))
+
+    def test_competition_provides_positive_rugby_context(self):
+        _, event, _ = self.enrich_with(event_title='Ireland vs Argentina', listing_name='AU (STAN 62) | Ireland v Argentina Nations Championship Round 4 2026 (2026-11-01 07:00:50)')
+        self.assertIn('Watch on: STAN 62', str(event['DESCRIPTION']))
+
+    def test_second_and_development_teams_are_rejected(self):
+        for qualifier in ('2nd XV', 'second XV', 'A XV', 'B team'):
+            with self.subTest(qualifier=qualifier):
+                _, event, _ = self.enrich_with(listing_name='STAN 12 Exeter v Harlequins ' + qualifier + ' Rugby 2026-10-31')
+                self.assertNotIn('Watch on:', str(event['DESCRIPTION']))
+
+    def test_catalogue_deadline_is_optional_and_worker_is_daemon(self):
+        import threading
+        gate = threading.Event()
+        cal, _ = fixture()
+        def slow_fetch(config):
+            gate.wait(2)
+            return CATEGORIES, [LISTING]
+        try:
+            with patch.dict(os.environ, {'WATCH_PROVIDER_JSON': CONFIG}), patch.object(watch, 'fetch_listings', side_effect=slow_fetch), patch.object(watch, 'LOOKUP_SECONDS', 0.01, create=True):
+                stats = watch.enrich(cal, NOW)
+                self.assertEqual(stats['provider'], 'unavailable')
+                workers = [t for t in threading.enumerate() if t.name == 'calendar-provider']
+                self.assertTrue(workers)
+                self.assertTrue(all(t.daemon for t in workers))
+        finally:
+            gate.set()
+
+    def test_same_session_title_requires_correct_sport_context(self):
+        _, event, _ = self.enrich_with(event_title='World Grand Prix: Final', listing_name='STAN 12 World Grand Prix: Final Football 2026-10-31')
+        self.assertNotIn('Watch on:', str(event['DESCRIPTION']))
+
+    def test_cycling_title_and_unknown_calendar(self):
+        cal, event = fixture('Tour de France 2026 Stage 1')
+        cal['X-WR-CALNAME'] = 'Cycling — Grand Tours & Monuments'
+        listing = {**LISTING, 'name': 'Eurosport 1 Tour de France 2026 Stage 1 2026-10-31'}
+        with patch.dict(os.environ, {'WATCH_PROVIDER_JSON': CONFIG}), patch.object(watch, 'fetch_listings', return_value=([{'category_id': '1', 'category_name': 'UK| SPORT ᴴᴰ'}], [listing])):
+            watch.enrich(cal, NOW)
+        self.assertIn('Watch on: Eurosport 1', str(event['DESCRIPTION']))
+        cal, event = fixture()
+        del cal['X-WR-CALNAME']
+        with patch.dict(os.environ, {'WATCH_PROVIDER_JSON': CONFIG}), patch.object(watch, 'fetch_listings', return_value=(CATEGORIES, [LISTING])):
+            watch.enrich(cal, NOW)
+        self.assertNotIn('Watch on:', str(event['DESCRIPTION']))

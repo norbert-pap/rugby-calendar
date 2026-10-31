@@ -5,6 +5,8 @@ No provider URL, credentials or arbitrary catalogue text reaches public output.
 """
 import json
 import os
+import queue
+import threading
 import re
 import unicodedata
 from datetime import datetime, timedelta, timezone
@@ -15,8 +17,9 @@ BEGIN = '[Sports calendar viewing]'
 END = '[/Sports calendar viewing]'
 MAX_BYTES = 64_000_000
 MAX_RECORDS = 150_000
+LOOKUP_SECONDS = 45
 ALIASES = {'exeter chiefs': 'exeter', 'harlequins': 'harlequins'}
-EXCLUDED = re.compile(r"\b(women|womens|w|wxv|ladies|girls|boys|youth|academy|reserves|development|u\s?\d{2}s?|under\s?\d{2}|cancelled|canceled)\b")
+EXCLUDED = re.compile(r"\b(women|womens|w|wxv|ladies|girls|boys|youth|academy|reserves|development|2nd xv|second xv|a xv|b xv|a team|b team|u\s?\d{2}s?|under\s?\d{2}|cancelled|canceled)\b")
 
 
 def normal(value):
@@ -47,6 +50,25 @@ def fetch_listings(config):
             raise ValueError('Invalid provider response')
         result.append(records)
     return tuple(result)
+
+
+def lookup_with_deadline(config):
+    """Bound the complete lookup, including slow headers and trickling bodies."""
+    result = queue.Queue(maxsize=1)
+    def worker():
+        try:
+            value = fetch_listings(config)
+        except Exception:
+            value = None  # Never transport or print authenticated exceptions.
+        result.put(value)
+    threading.Thread(target=worker, name='calendar-provider', daemon=True).start()
+    try:
+        value = result.get(timeout=LOOKUP_SECONDS)
+    except queue.Empty:
+        raise TimeoutError('Provider lookup deadline exceeded') from None
+    if value is None:
+        raise ValueError('Provider unavailable')
+    return value
 
 
 def eligible(group, name):
@@ -132,8 +154,25 @@ def source_hints(title, description):
     return hints
 
 
-def enrich(calendar, now):
+def sport_context(sport, name, group):
+    if sport == 'rugby':
+        phrases = ('rugby', 'six nations', 'nations championship',
+                   'bledisloe', 'lions', 'urc')
+        return any(contains(name, phrase) for phrase in phrases)
+    if sport == 'darts':
+        return normal(group) == 'uk pdc board ppv' or any(contains(name, p) for p in ('darts', 'pdc'))
+    if sport == 'cycling':
+        return any(contains(name, p) for p in ('cycling', 'giro d italia', 'tour de france',
+                   'vuelta a espana', 'milan san remo', 'tour of flanders',
+                   'paris roubaix', 'liege bastogne liege', 'il lombardia'))
+    return False
+
+
+def enrich(calendar, now, sport=None):
     stats = {'provider': 'unconfigured', 'matched_events': 0, 'hinted_events': 0}
+    if sport is None:
+        calendar_name = normal(calendar.get('X-WR-CALNAME', ''))
+        sport = next((s for s in ('rugby', 'cycling', 'darts') if contains(calendar_name, s)), None)
     records = []
     raw = os.environ.get('WATCH_PROVIDER_JSON', '')
     if raw:
@@ -141,13 +180,17 @@ def enrich(calendar, now):
             config = json.loads(raw)
             if not isinstance(config, dict) or any(not isinstance(config.get(k), str) or not config[k] for k in ('url', 'username', 'password')):
                 raise ValueError('Invalid provider configuration')
-            categories, streams = fetch_listings(config)
+            categories, streams = lookup_with_deadline(config)
             groups = {str(c.get('category_id')): c.get('category_name', '') for c in categories}
             for stream in streams:
                 name = str(stream.get('name', ''))
                 if len(name) > 1000 or '://' in name or '♀' in name or EXCLUDED.search(normal(name)):
                     continue
-                if not eligible(groups.get(str(stream.get('category_id')), ''), name):
+                group = groups.get(str(stream.get('category_id')), '')
+                normalized = normal(name)
+                if re.search(r'\b(replay|highlights?|re run|rerun|classic|vod)\b', normalized):
+                    continue
+                if not eligible(group, name) or not sport_context(sport, normalized, group):
                     continue
                 day, label = listing_date(name), label_for(name)
                 if day and label:
