@@ -11,6 +11,7 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 from icalendar import Calendar
+import watch
 import merge
 
 CYCLING = {
@@ -117,6 +118,7 @@ def refresh(sport, folder=Path('.'), now=None):
     stats['optional_sources_unpublished'] = unavailable
     starts = [merge.as_utc(e.decoded('DTSTART')) for e in calendar.walk('VEVENT')]
     stats['latest_event_start'] = max(starts).isoformat() if starts else None
+    stats['watch'] = watch.enrich(calendar, now)
     payload = calendar.to_ical()
     if len(payload) >= 1_000_000:
         raise ValueError('Calendar exceeds Proton subscription size limit')
