@@ -12,7 +12,12 @@
   "duplicates_removed": 0,
   "old_events_removed": 66,
   "events": 29,
-  "last_successful_refresh": "2026-10-31T12:29:33.438597+00:00",
+  "last_successful_refresh": "2026-10-31T16:51:52.827060+00:00",
   "optional_sources_unpublished": [],
-  "latest_event_start": "2027-10-09T00:00:00+00:00"
+  "latest_event_start": "2027-10-09T00:00:00+00:00",
+  "watch": {
+    "provider": "available",
+    "matched_events": 0,
+    "hinted_events": 0
+  }
 }
