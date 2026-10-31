@@ -9,6 +9,8 @@ on:
       - sports.py
       - test_sports.py
       - merge.py
+      - watch.py
+      - test_watch.py
       - requirements.txt
       - .github/workflows/sports.yml
 permissions:
@@ -36,6 +38,8 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python -m unittest -v
       - run: python sports.py ${{ matrix.sport }}
+        env:
+          WATCH_PROVIDER_JSON: ${{ secrets.WATCH_PROVIDER_JSON }}
       - name: Publish verified calendar
         env:
           SPORT: ${{ matrix.sport }}

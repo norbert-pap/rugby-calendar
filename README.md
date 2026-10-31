@@ -65,3 +65,13 @@ On Windows, use the virtual environment executable instead:
 .venv\Scripts\python.exe sports.py cycling
 .venv\Scripts\python.exe sports.py darts
 ```
+
+## Viewing information
+
+The same Rugby, Cycling and Darts subscriptions can append a viewing block to existing event descriptions. A matched live provider listing adds `Watch on: STAN 12`, for example, and `UHF: search Exeter`. The block includes when the channel listing was checked. These are advertised listings, not confirmation that playback works. Original fixture IDs, titles, starts, ends and source description text remain intact. Revision timestamps change when the description changes; upstream sequence numbers are retained.
+
+Matching uses only the live groups admitted by the UHF sports filter: AU STAN PPV, UK FloRugby/PDC Board PPV, UK Sport RAW/HD, NZ Sky Sport RAW, Hungary and US Sport, plus Premier/Viaplay channels in other UK Sport groups. Listings must identify the correct sport or a recognised competition; opponent names alone are insufficient. Replays, highlights, reruns, classics and VOD entries are rejected. Both opponents must form a matchup in the listing, using explicit aliases where needed. Other timed events need their full session/stage title. Listings need one unambiguous year-first date within one calendar day of the fixture date, because provider text uses a different clock. Provider dates never change fixture times. Cancelled, women's and youth listings are excluded; undated, stale and ambiguous listings remain unlabelled. All-day events and spans over 24 hours never acquire a channel from an individual session listing.
+
+Source-supplied broadcaster information can still appear as a broad hint, such as `Broadcaster: Sky Sports (UK)`. This does not select an exact Sky channel or imply Hungarian rights. Missing or unavailable provider data skips dynamic matches without blocking fixture publication. Each refresh starts from the source fixtures, so outdated channel assignments disappear; repeated enrichment replaces only its own delimited block.
+
+For optional provider matching, configure the repository's encrypted Actions secret `WATCH_PROVIDER_JSON` as a JSON object with `url` (provider base address), `username` and `password`. The same environment variable is supported locally. Never commit the value. The complete optional lookup has a 45-second deadline. Its two live-catalogue requests have 15-second network timeouts, reject redirects, and limit each response to 64 MB and 150,000 records. Public calendars and status output contain only generated channel labels, source hints and safe counts; provider addresses, credentials and stream URLs are not published or logged. Existing subscriptions and sport allowlists are unchanged.

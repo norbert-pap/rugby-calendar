@@ -7,6 +7,8 @@ on:
     branches: [main]
     paths:
       - merge.py
+      - watch.py
+      - test_watch.py
       - test_merge.py
       - requirements.txt
       - .github/workflows/refresh.yml
@@ -21,6 +23,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -28,6 +32,8 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python -m unittest -v
       - run: python merge.py
+        env:
+          WATCH_PROVIDER_JSON: ${{ secrets.WATCH_PROVIDER_JSON }}
       - name: Publish verified calendar
         run: |
           git config user.name 'github-actions[bot]'
