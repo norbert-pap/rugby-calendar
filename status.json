@@ -4,70 +4,70 @@
       "name": "Harlequins",
       "events": 377,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Hurricanes (NZ)",
       "events": 48,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Six Nations",
       "events": 15,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "The Rugby Championship",
       "events": 0,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "International Friendlies",
       "events": 6,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Rugby World Cup",
       "events": 36,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Nations Championship",
       "events": 18,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "The Lions Series",
       "events": 0,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Pacific Nations Cup",
       "events": 0,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     },
     {
       "name": "Rugby Europe Championship",
       "events": 0,
       "fetched_at": "2026-11-01T15:55:11.501000+00:00",
-      "stale": false
+      "stale": true
     }
   ],
   "duplicates_removed": 0,
   "old_events_removed": 398,
   "events": 102,
-  "last_successful_refresh": "2026-11-01T15:55:11.501000+00:00",
+  "last_successful_refresh": "2026-11-01T18:21:26.863173+00:00",
   "watch": {
-    "provider": "unconfigured",
-    "matched_events": 0,
-    "hinted_events": 0
+    "provider": "available",
+    "matched_events": 16,
+    "hinted_events": 16
   }
 }
