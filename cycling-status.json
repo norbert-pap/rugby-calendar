@@ -6,13 +6,13 @@
     },
     {
       "name": "https://calendariociclismo.app/feed/2027-wt.ics",
-      "events": 28
+      "events": 48
     }
   ],
   "duplicates_removed": 0,
   "old_events_removed": 66,
-  "events": 29,
-  "last_successful_refresh": "2026-11-03T06:34:32.857845+00:00",
+  "events": 49,
+  "last_successful_refresh": "2026-11-03T12:31:59.915805+00:00",
   "optional_sources_unpublished": [],
   "latest_event_start": "2027-10-09T00:00:00+00:00",
   "watch": {

@@ -7,7 +7,7 @@ X-WR-CALDESC:Men's Giro d'Italia\, Tour de France\, Vuelta a España and f
  ive Monuments. Source: Calendario Ciclismo.
 X-WR-CALNAME:Cycling — Grand Tours & Monuments
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
-X-LAST-REFRESHED:20261103T063432Z
+X-LAST-REFRESHED:20261103T123159Z
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Budapest
 BEGIN:VEVENT
@@ -60,14 +60,220 @@ URL:https://calendariociclismo.app/competicion.html?slug=lieja-bastona-lie
  ja-2027
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Giro d'Italia 2027
+SUMMARY:Giro d'Italia 2027 · Stage 1
 DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-1@calendariociclismo.app
+DESCRIPTION:Trieste · 172 km · Sinuosa
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 2
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-2@calendariociclismo.app
+DESCRIPTION:Liubliana → Koper · 166 km · Sinuosa
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 3
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-3@calendariociclismo.app
+DESCRIPTION:Cervignano del Friuli → Possagno · 163 km · Sinuosa
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 4
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-4@calendariociclismo.app
+DESCRIPTION:Argenta → Misano Adriatico · 151 km · Llana
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 5
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-5@calendariociclismo.app
+DESCRIPTION:Filottrano → Sarnano-Sassotetto · 139 km · Media montaña 
+ · Final en alto
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 6
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-6@calendariociclismo.app
+DESCRIPTION:Alba Adriatica → Lanciano · 148 km · Sinuosa
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 7
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-7@calendariociclismo.app
+DESCRIPTION:Sulmona → Campo di Giove · 19.6 km · CRI · Cronoescalada
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 8
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-8@calendariociclismo.app
+DESCRIPTION:Trasacco → Nápoles · 219 km · Llana
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 9
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-9@calendariociclismo.app
+DESCRIPTION:Itri → Subiaco-Monte Livata · 180 km · Media montaña · F
+ inal en alto
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 10
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-10@calendariociclismo.app
+DESCRIPTION:Palombara Sabina → Norcia · 218 km · Media montaña
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 11
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-11@calendariociclismo.app
+DESCRIPTION:Gualdo Tadino → Scarperia · 220 km · Sinuosa
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 12
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-12@calendariociclismo.app
+DESCRIPTION:Montecatini Terme → Zeri · 173 km · Media montaña · Fina
+ l en alto
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 13
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-13@calendariociclismo.app
+DESCRIPTION:Borgo Val di Taro → Reggio Emilia · 176 km · Llana
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 14
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-14@calendariociclismo.app
+DESCRIPTION:Cantù → Piani di Bobbio · 187 km · Alta montaña · Final
+  en alto
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 15
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-15@calendariociclismo.app
+DESCRIPTION:Monza → Milán · 37.3 km · CRI
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 16
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-16@calendariociclismo.app
+DESCRIPTION:Sondrio → Aprica · 192 km · Alta montaña · Final en alto
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 17
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-17@calendariociclismo.app
+DESCRIPTION:Chiari → Vo' · 194 km · Sinuosa
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 18
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-18@calendariociclismo.app
+DESCRIPTION:Rovereto → Madonna di Campiglio · 154 km · Alta montaña 
+ · Final en alto
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 19
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-19@calendariociclismo.app
+DESCRIPTION:Rovereto → Sacile · 199 km · Media montaña
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 20
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-20@calendariociclismo.app
+DESCRIPTION:Pordenone → Monte Zoncolan · 180 km · Alta montaña · Fin
+ al en alto
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giro d'Italia 2027 · Stage 21
+DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
-DTSTAMP:20261103T050309Z
-UID:giro-de-italia-2027@calendariociclismo.app
-DESCRIPTION:IT
-URL:https://calendariociclismo.app/competicion.html?slug=giro-de-italia-20
- 27
+DTSTAMP:20261103T122128Z
+UID:giro-de-italia-2027-etapa-21@calendariociclismo.app
+DESCRIPTION:Roma · 131 km · Llana
+URL:https://calendariociclismo.app/jornada.html?slug=giro-de-italia-2027-e
+ tapa-21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour de France 2027 · Stage 1
