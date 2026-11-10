@@ -7,18 +7,9 @@ X-WR-CALDESC:Men's Giro d'Italia\, Tour de France\, Vuelta a España and f
  ive Monuments. Source: Calendario Ciclismo.
 X-WR-CALNAME:Cycling — Grand Tours & Monuments
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
-X-LAST-REFRESHED:20261109T123310Z
+X-LAST-REFRESHED:20261110T004234Z
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Budapest
-BEGIN:VEVENT
-SUMMARY:Il Lombardia 2026
-DTSTART:20261010T090500Z
-DTEND:20261010T145900Z
-DTSTAMP:20261109T110420Z
-UID:il-lombardia-2026@calendariociclismo.app
-DESCRIPTION:Bérgamo → Como · 239 km · Media montaña
-URL:https://calendariociclismo.app/jornada.html?slug=il-lombardia-2026
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Milan-San Remo 2027
 DTSTART;VALUE=DATE:20270320
