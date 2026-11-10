@@ -64,7 +64,7 @@
   "duplicates_removed": 0,
   "old_events_removed": 400,
   "events": 100,
-  "last_successful_refresh": "2026-11-09T12:27:35.841257+00:00",
+  "last_successful_refresh": "2026-11-10T00:39:11.694978+00:00",
   "watch": {
     "provider": "available",
     "matched_events": 12,
