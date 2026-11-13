@@ -7,7 +7,7 @@ X-WR-CALDESC:Harlequins, Hurricanes (NZ), and men's senior internationals.
   Public fixtures from Gainline.
 X-WR-CALNAME:Rugby
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
-X-LAST-REFRESHED:20261111T004012Z
+X-LAST-REFRESHED:20261113T124629Z
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Budapest
 BEGIN:VEVENT
@@ -71,74 +71,74 @@ LOCATION:Sandy Park
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ireland vs Argentina
+SUMMARY:Ireland 42 - 12 Argentina
 DTSTART:20261106T201000Z
 DTEND:20261106T231000Z
-DTSTAMP:20261104T021007Z
+DTSTAMP:20261108T140747Z
 UID:match-5676@gainline.app
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\n\n
- Powered by Gainline.
-LAST-MODIFIED:20261104T021007Z
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\nSc
+ ore: 42 - 12\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261108T140747Z
 LOCATION:Aviva Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Italy vs South Africa
+SUMMARY:Italy 7 - 66 South Africa
 DTSTART:20261107T114000Z
 DTEND:20261107T144000Z
-DTSTAMP:20261103T171007Z
+DTSTAMP:20261108T133904Z
 UID:match-5677@gainline.app
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\n\n
- Powered by Gainline.
-LAST-MODIFIED:20261103T171007Z
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\nSc
+ ore: 7 - 66\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261108T133904Z
 LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scotland vs New Zealand
+SUMMARY:Scotland 21 - 43 New Zealand
 DTSTART:20261107T141000Z
 DTEND:20261107T171000Z
-DTSTAMP:20261103T171007Z
+DTSTAMP:20261108T133617Z
 UID:match-5678@gainline.app
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\n\n
- Powered by Gainline.
-LAST-MODIFIED:20261103T171007Z
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\nSc
+ ore: 21 - 43\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261108T133617Z
 LOCATION:Scottish Gas Murrayfield
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wales vs Japan
+SUMMARY:Wales 28 - 21 Japan
 DTSTART:20261107T164000Z
 DTEND:20261107T194000Z
-DTSTAMP:20261103T211007Z
+DTSTAMP:20261108T153851Z
 UID:match-5679@gainline.app
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\n\n
- Powered by Gainline.
-LAST-MODIFIED:20261103T211007Z
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\nSc
+ ore: 28 - 21\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261108T153851Z
 LOCATION:Principality Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:France vs Fiji
+SUMMARY:France 54 - 17 Fiji
 DTSTART:20261107T201000Z
 DTEND:20261107T231000Z
-DTSTAMP:20261104T021007Z
+DTSTAMP:20261108T043843Z
 UID:match-5680@gainline.app
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\n\n
- Powered by Gainline.
-LAST-MODIFIED:20261104T021007Z
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\nSc
+ ore: 54 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261108T043843Z
 LOCATION:Groupama Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:England vs Australia
+SUMMARY:England 45 - 22 Australia
 DTSTART:20261108T151000Z
 DTEND:20261108T181000Z
-DTSTAMP:20261103T181007Z
+DTSTAMP:20261109T173612Z
 UID:match-5681@gainline.app
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\n\n
- Powered by Gainline.
-LAST-MODIFIED:20261103T181007Z
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 4\nSc
+ ore: 45 - 22\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261109T173612Z
 LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
@@ -146,13 +146,13 @@ BEGIN:VEVENT
 SUMMARY:France vs South Africa
 DTSTART:20261113T201000Z
 DTEND:20261113T231000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5682@gainline.app
 DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 5\n\n
- Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 7\nUHF: 
- search France\nChannel listing checked: 2026-11-11 00:40 UTC\n[/Sports cal
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 3\nUHF: 
+ search France\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports cal
  endar viewing]
-LAST-MODIFIED:20261111T004012Z
+LAST-MODIFIED:20261113T124629Z
 LOCATION:Stade de France
 STATUS:CONFIRMED
 END:VEVENT
@@ -160,165 +160,178 @@ BEGIN:VEVENT
 SUMMARY:Italy vs Argentina
 DTSTART:20261114T114000Z
 DTEND:20261114T144000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5683@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 10\nUHF: search Italy\nChannel listing checked
- : 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 5\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 6\nUHF: 
+ search Italy\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports cale
+ ndar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Stadio Luigi Ferraris
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wales vs New Zealand
 DTSTART:20261114T141000Z
 DTEND:20261114T171000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5684@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 13\nUHF: search Wales\nChannel listing checked
- : 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 5\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 9\nUHF: 
+ search Wales\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports cale
+ ndar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Principality Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harlequins: Newcastle Red Bulls vs Harlequins
 DTSTART:20261114T143000Z
 DTEND:20261114T173000Z
-DTSTAMP:20261031T151112Z
+DTSTAMP:20261113T121007Z
 UID:match-6523@gainline.app
-DESCRIPTION:Premiership Rugby Cup\n\nPowered by Gainline.
-LAST-MODIFIED:20261031T151112Z
-LOCATION:Venue TBD
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool B\nRound: 4\n\nPowered by G
+ ainline.
+LAST-MODIFIED:20261113T121007Z
+LOCATION:Kingston Park
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:England vs Japan
 DTSTART:20261114T164000Z
 DTEND:20261114T194000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5685@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 23\nUHF: search England\nChannel listing check
- ed: 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 5\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 19\nUHF:
+  search England\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports c
+ alendar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ireland vs Fiji
 DTSTART:20261114T201000Z
 DTEND:20261114T231000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5686@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 26\nUHF: search Ireland\nChannel listing check
- ed: 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 5\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 22\nUHF:
+  search Ireland\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports c
+ alendar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Aviva Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scotland vs Australia
 DTSTART:20261115T151000Z
 DTEND:20261115T181000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5687@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 33\nUHF: search Scotland\nChannel listing chec
- ked: 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 5\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 29\nUHF:
+  search Scotland\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports 
+ calendar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Scottish Gas Murrayfield
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harlequins: Saracens vs Harlequins
 DTSTART:20261121T120000Z
 DTEND:20261121T150000Z
-DTSTAMP:20260809T153545Z
+DTSTAMP:20261111T120510Z
 UID:match-6526@gainline.app
-DESCRIPTION:Premiership Rugby Cup\n\nPowered by Gainline.
-LAST-MODIFIED:20260809T153545Z
-LOCATION:Venue TBD
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool B\nRound: 5\n\nPowered by G
+ ainline.
+LAST-MODIFIED:20261111T120510Z
+LOCATION:StoneX Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:England vs New Zealand
 DTSTART:20261121T141000Z
 DTEND:20261121T171000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5688@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 48\nUHF: search England\nChannel listing check
- ed: 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 44\nUHF:
+  search England\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports c
+ alendar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scotland vs Japan
 DTSTART:20261121T141000Z
 DTEND:20261121T171000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5689@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 50\nUHF: search Scotland\nChannel listing chec
- ked: 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 46\nUHF:
+  search Scotland\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports 
+ calendar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Scottish Gas Murrayfield
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ireland vs South Africa
 DTSTART:20261121T164000Z
 DTEND:20261121T194000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5690@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 59\nUHF: search Ireland\nChannel listing check
- ed: 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 56\nUHF:
+  search Ireland\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports c
+ alendar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Aviva Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Italy vs Fiji
 DTSTART:20261121T164000Z
 DTEND:20261121T194000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5691@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 60\nUHF: search Italy\nChannel listing checked
- : 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 55\nUHF:
+  search Italy\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports cal
+ endar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Bluenergy Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:France vs Argentina
 DTSTART:20261121T201000Z
 DTEND:20261121T231000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5692@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 66\nUHF: search France\nChannel listing checke
- d: 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 62\nUHF:
+  search France\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports ca
+ lendar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Stade de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wales vs Australia
 DTSTART:20261121T201000Z
 DTEND:20261121T231000Z
-DTSTAMP:20261111T004012Z
+DTSTAMP:20261113T124629Z
 UID:match-5693@gainline.app
-DESCRIPTION:Nations Championship\n\nPowered by Gainline.\n\n[Sports calend
- ar viewing]\nWatch on: STAN 65\nUHF: search Wales\nChannel listing checked
- : 2026-11-11 00:40 UTC\n[/Sports calendar viewing]
-LAST-MODIFIED:20261111T004012Z
-LOCATION:Venue TBD
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\n
+ Powered by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 61\nUHF:
+  search Wales\nChannel listing checked: 2026-11-13 12:46 UTC\n[/Sports cal
+ endar viewing]
+LAST-MODIFIED:20261113T124629Z
+LOCATION:Principality Stadium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -400,12 +413,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harlequins: Harlequins vs Gloucester Rugby
-DTSTART:20270123T000000Z
-DTEND:20270123T030000Z
-DTSTAMP:20260809T153435Z
+DTSTART:20270122T194500Z
+DTEND:20270122T224500Z
+DTSTAMP:20261111T074704Z
 UID:match-5919@gainline.app
 DESCRIPTION:English Premiership\n\nPowered by Gainline.
-LAST-MODIFIED:20260809T153435Z
+LAST-MODIFIED:20261111T074704Z
 LOCATION:Venue TBD
 STATUS:CONFIRMED
 END:VEVENT
@@ -567,10 +580,10 @@ BEGIN:VEVENT
 SUMMARY:Italy vs France
 DTSTART:20270306T141000Z
 DTEND:20270306T171000Z
-DTSTAMP:20260607T181916Z
+DTSTAMP:20261109T061553Z
 UID:match-5626@gainline.app
 DESCRIPTION:Six Nations\n\nPowered by Gainline.
-LAST-MODIFIED:20260607T181916Z
+LAST-MODIFIED:20261109T061553Z
 LOCATION:Venue TBD
 STATUS:CONFIRMED
 END:VEVENT
@@ -620,12 +633,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harlequins: Saracens vs Harlequins
-DTSTART:20270320T000000Z
-DTEND:20270320T030000Z
-DTSTAMP:20260809T153435Z
+DTSTART:20270320T150000Z
+DTEND:20270320T180000Z
+DTSTAMP:20261111T074718Z
 UID:match-5924@gainline.app
 DESCRIPTION:English Premiership\n\nPowered by Gainline.
-LAST-MODIFIED:20260809T153435Z
+LAST-MODIFIED:20261111T074718Z
 LOCATION:Venue TBD
 STATUS:CONFIRMED
 END:VEVENT
@@ -787,10 +800,10 @@ BEGIN:VEVENT
 SUMMARY:England vs Tonga
 DTSTART:20271002T101500Z
 DTEND:20271002T131500Z
-DTSTAMP:20261026T223725Z
+DTSTAMP:20261109T083859Z
 UID:match-18119@gainline.app
 DESCRIPTION:Rugby World Cup\n\nPowered by Gainline.
-LAST-MODIFIED:20261026T223725Z
+LAST-MODIFIED:20261109T083859Z
 LOCATION:Venue TBD
 STATUS:CONFIRMED
 END:VEVENT
