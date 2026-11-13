@@ -48,7 +48,9 @@ def fetch(source):
     result = subprocess.run([
         'curl', '--fail', '--location', '--silent', '--show-error',
         '--connect-timeout', '15', '--max-time', '45',
-        '--retry', '2', '--retry-delay', '2', BASE + path,
+        '--retry', '2', '--retry-delay', '2',
+        # Cloudflare challenges curl's default User-Agent from CI runners.
+        '--user-agent', 'SportsCalendar/1.0', BASE + path,
     ], capture_output=True, check=False)
     if result.returncode:
         raise RuntimeError(f'{name}: fetch failed: {result.stderr.decode(errors="replace").strip()}')
