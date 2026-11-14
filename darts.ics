@@ -7,19 +7,19 @@ X-WR-CALDESC:Major PDC tournaments and published sessions. Source: CSWStat
  s. UK channel labels\; local times use DTSTART.
 X-WR-CALNAME:Darts — Major televised tournaments
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
-X-LAST-REFRESHED:20261114T004218Z
+X-LAST-REFRESHED:20261114T063400Z
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Budapest
 BEGIN:VEVENT
 SUMMARY:European Championship (ITV4)
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:event-european-championship-2026-10-22@cswdarts.co.uk
 DESCRIPTION:European Championship\, 22 to 25 October 2026. Live in the UK 
  on ITV4. Won by Ross Smith.\n\n[Sports calendar viewing]\nBroadcaster: ITV
  4 (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Westfalenhallen\, Dortmund
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/european-championship/2026
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship: First round (ITV4)
 DTSTART:20261022T170000Z
 DTEND:20261022T200000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-european-championship-2026-10-22-1800-first-round@cswdarts.co.
  uk
 DESCRIPTION:First round. Best of 11 legs. Order of play: Luke Woodhouse v 
@@ -39,7 +39,7 @@ DESCRIPTION:First round. Best of 11 legs. Order of play: Luke Woodhouse v
  es. Live in the UK on ITV4. Draw\, odds and results: https://cswdarts.co.u
  k/darts/european-championship/2026\n\n[Sports calendar viewing]\nBroadcast
  er: ITV4 (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Westfalenhallen\, Dortmund
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/european-championship/2026
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:European Championship: First round (ITV4)
 DTSTART:20261023T170000Z
 DTEND:20261023T200000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-european-championship-2026-10-23-1800-first-round@cswdarts.co.
  uk
 DESCRIPTION:First round. Best of 11 legs. Order of play: Ryan Joyce v Jerm
@@ -59,7 +59,7 @@ DESCRIPTION:First round. Best of 11 legs. Order of play: Ryan Joyce v Jerm
  the matches. Live in the UK on ITV4. Draw\, odds and results: https://cswd
  arts.co.uk/darts/european-championship/2026\n\n[Sports calendar viewing]\n
  Broadcaster: ITV4 (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Westfalenhallen\, Dortmund
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/european-championship/2026
@@ -68,14 +68,14 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Second round (ITV4)
 DTSTART:20261024T110000Z
 DTEND:20261024T140000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-european-championship-2026-10-24-1200-second-round@cswdarts.co
  .uk
 DESCRIPTION:Second round. Best of 19 legs. Start time as published\; the f
  inish depends on the matches. Live in the UK on ITV4. Draw\, odds and resu
  lts: https://cswdarts.co.uk/darts/european-championship/2026\n\n[Sports ca
  lendar viewing]\nBroadcaster: ITV4 (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Westfalenhallen\, Dortmund
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/european-championship/2026
@@ -84,14 +84,14 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Second round (ITV4)
 DTSTART:20261024T170000Z
 DTEND:20261024T200000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-european-championship-2026-10-24-1800-second-round@cswdarts.co
  .uk
 DESCRIPTION:Second round. Best of 19 legs. Start time as published\; the f
  inish depends on the matches. Live in the UK on ITV4. Draw\, odds and resu
  lts: https://cswdarts.co.uk/darts/european-championship/2026\n\n[Sports ca
  lendar viewing]\nBroadcaster: ITV4 (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Westfalenhallen\, Dortmund
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/european-championship/2026
@@ -100,14 +100,14 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Quarter-finals (ITV4)
 DTSTART:20261025T120000Z
 DTEND:20261025T150000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-european-championship-2026-10-25-1200-quarter-finals@cswdarts.
  co.uk
 DESCRIPTION:Quarter-finals. Best of 19 legs. Start time as published\; the
   finish depends on the matches. Live in the UK on ITV4. Draw\, odds and re
  sults: https://cswdarts.co.uk/darts/european-championship/2026\n\n[Sports 
  calendar viewing]\nBroadcaster: ITV4 (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Westfalenhallen\, Dortmund
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/european-championship/2026
@@ -116,13 +116,13 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Final (ITV4)
 DTSTART:20261025T180000Z
 DTEND:20261025T210000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-european-championship-2026-10-25-1800-final@cswdarts.co.uk
 DESCRIPTION:Final. Best of 21 legs. Start time as published\; the finish d
  epends on the matches. Live in the UK on ITV4. Draw\, odds and results: ht
  tps://cswdarts.co.uk/darts/european-championship/2026\n\n[Sports calendar 
  viewing]\nBroadcaster: ITV4 (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Westfalenhallen\, Dortmund
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/european-championship/2026
@@ -131,14 +131,14 @@ BEGIN:VEVENT
 SUMMARY:European Championship: Semi-finals (ITV4)
 DTSTART:20261025T180000Z
 DTEND:20261025T210000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-european-championship-2026-10-25-1800-semi-finals@cswdarts.co.
  uk
 DESCRIPTION:Semi-finals. Best of 21 legs. Start time as published\; the fi
  nish depends on the matches. Live in the UK on ITV4. Draw\, odds and resul
  ts: https://cswdarts.co.uk/darts/european-championship/2026\n\n[Sports cal
  endar viewing]\nBroadcaster: ITV4 (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Westfalenhallen\, Dortmund
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/european-championship/2026
@@ -147,12 +147,12 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts (Sky Sports)
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:event-grand-slam-of-darts-2026-11-14@cswdarts.co.uk
 DESCRIPTION:Grand Slam of Darts\, 14 to 22 November 2026. Live in the UK o
  n Sky Sports.\n\n[Sports calendar viewing]\nBroadcaster: Sky Sports (UK)\n
  [/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Group stage (Sky Sports)
 DTSTART:20261114T130000Z
 DTEND:20261114T160000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-14-1300-group-stage@cswdarts.co.uk
 DESCRIPTION:Group stage. Best of 9 legs. Order of play: Luke Woodhouse v T
  om Sykes\; Jermaine Wattimena v Lisa Ashton\; Stephen Bunting v Raymond Sm
@@ -171,7 +171,7 @@ DESCRIPTION:Group stage. Best of 9 legs. Order of play: Luke Woodhouse v T
  Live in the UK on Sky Sports. Draw\, odds and results: https://cswdarts.co
  .uk/darts/grand-slam-of-darts/2026\n\n[Sports calendar viewing]\nBroadcast
  er: Sky Sports (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Group stage (Sky Sports)
 DTSTART:20261114T190000Z
 DTEND:20261114T220000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-14-1900-group-stage@cswdarts.co.uk
 DESCRIPTION:Group stage. Best of 9 legs. Order of play: Gerwyn Price v Joe
   Hunt\; James Wade v Cam Crabtree\; Ross Smith v Rusty-Jake Rodriguez\; Mi
@@ -190,7 +190,7 @@ DESCRIPTION:Group stage. Best of 9 legs. Order of play: Gerwyn Price v Joe
  the UK on Sky Sports. Draw\, odds and results: https://cswdarts.co.uk/dart
  s/grand-slam-of-darts/2026\n\n[Sports calendar viewing]\nBroadcaster: Sky 
  Sports (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -199,14 +199,14 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Group stage (Sky Sports)
 DTSTART:20261115T130000Z
 DTEND:20261115T160000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-15-1300-group-stage@cswdarts.co.uk
 DESCRIPTION:Group stage. Best of 9 legs. Start time as published\; the fin
  ish depends on the matches. Live in the UK on Sky Sports. Draw\, odds and 
  results: https://cswdarts.co.uk/darts/grand-slam-of-darts/2026\n\n[Sports 
  calendar viewing]\nBroadcaster: Sky Sports (UK)\n[/Sports calendar viewing
  ]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -215,14 +215,14 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Group stage (Sky Sports)
 DTSTART:20261115T180000Z
 DTEND:20261115T210000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-15-1800-group-stage@cswdarts.co.uk
 DESCRIPTION:Group stage. Best of 9 legs. Start time as published\; the fin
  ish depends on the matches. Live in the UK on Sky Sports. Draw\, odds and 
  results: https://cswdarts.co.uk/darts/grand-slam-of-darts/2026\n\n[Sports 
  calendar viewing]\nBroadcaster: Sky Sports (UK)\n[/Sports calendar viewing
  ]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -231,14 +231,14 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Group stage (Sky Sports)
 DTSTART:20261116T190000Z
 DTEND:20261116T220000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-16-1900-group-stage@cswdarts.co.uk
 DESCRIPTION:Group stage. Best of 9 legs. Start time as published\; the fin
  ish depends on the matches. Live in the UK on Sky Sports. Draw\, odds and 
  results: https://cswdarts.co.uk/darts/grand-slam-of-darts/2026\n\n[Sports 
  calendar viewing]\nBroadcaster: Sky Sports (UK)\n[/Sports calendar viewing
  ]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -247,14 +247,14 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Group stage (Sky Sports)
 DTSTART:20261117T190000Z
 DTEND:20261117T220000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-17-1900-group-stage@cswdarts.co.uk
 DESCRIPTION:Group stage. Best of 9 legs. Start time as published\; the fin
  ish depends on the matches. Live in the UK on Sky Sports. Draw\, odds and 
  results: https://cswdarts.co.uk/darts/grand-slam-of-darts/2026\n\n[Sports 
  calendar viewing]\nBroadcaster: Sky Sports (UK)\n[/Sports calendar viewing
  ]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -263,13 +263,13 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Last 16 (Sky Sports)
 DTSTART:20261119T190000Z
 DTEND:20261119T220000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-19-1900-last-16@cswdarts.co.uk
 DESCRIPTION:Last 16. Best of 19 legs. Start time as published\; the finish
   depends on the matches. Live in the UK on Sky Sports. Draw\, odds and res
  ults: https://cswdarts.co.uk/darts/grand-slam-of-darts/2026\n\n[Sports cal
  endar viewing]\nBroadcaster: Sky Sports (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Quarter-finals (Sky Sports)
 DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-21-1900-quarter-finals@cswdarts.co
  .uk
 DESCRIPTION:Quarter-finals. Best of 31 legs. Start time as published\; the
@@ -286,7 +286,7 @@ DESCRIPTION:Quarter-finals. Best of 31 legs. Start time as published\; the
  and results: https://cswdarts.co.uk/darts/grand-slam-of-darts/2026\n\n[Spo
  rts calendar viewing]\nBroadcaster: Sky Sports (UK)\n[/Sports calendar vie
  wing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -295,14 +295,14 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Semi-finals (Sky Sports)
 DTSTART:20261122T130000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-22-1300-semi-finals@cswdarts.co.uk
 DESCRIPTION:Semi-finals. Best of 31 legs. Start time as published\; the fi
  nish depends on the matches. Live in the UK on Sky Sports. Draw\, odds and
   results: https://cswdarts.co.uk/darts/grand-slam-of-darts/2026\n\n[Sports
   calendar viewing]\nBroadcaster: Sky Sports (UK)\n[/Sports calendar viewin
  g]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -311,13 +311,13 @@ BEGIN:VEVENT
 SUMMARY:Grand Slam of Darts: Final (Sky Sports)
 DTSTART:20261122T180000Z
 DTEND:20261122T210000Z
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:session-grand-slam-of-darts-2026-11-22-1800-final@cswdarts.co.uk
 DESCRIPTION:Final. Best of 31 legs. Start time as published\; the finish d
  epends on the matches. Live in the UK on Sky Sports. Draw\, odds and resul
  ts: https://cswdarts.co.uk/darts/grand-slam-of-darts/2026\n\n[Sports calen
  dar viewing]\nBroadcaster: Sky Sports (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:WV Active Aldersley\, Wolverhampton
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/grand-slam-of-darts/2026
@@ -326,12 +326,12 @@ BEGIN:VEVENT
 SUMMARY:Players Championship Finals (ITV4)
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:event-players-championship-finals-2026-11-27@cswdarts.co.uk
 DESCRIPTION:Players Championship Finals\, 27 to 29 November 2026. Live in 
  the UK on ITV4.\n\n[Sports calendar viewing]\nBroadcaster: ITV4 (UK)\n[/Sp
  orts calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Butlin's Minehead
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/players-championship-finals/2026
@@ -340,12 +340,12 @@ BEGIN:VEVENT
 SUMMARY:World Darts Championship (Sky Sports)
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20270104
-DTSTAMP:20261114T004218Z
+DTSTAMP:20261114T063400Z
 UID:event-world-darts-championship-2026-12-11@cswdarts.co.uk
 DESCRIPTION:World Darts Championship\, 11 December 2026 to 3 January 2027.
   Live in the UK on Sky Sports.\n\n[Sports calendar viewing]\nBroadcaster: 
  Sky Sports (UK)\n[/Sports calendar viewing]
-LAST-MODIFIED:20261114T004218Z
+LAST-MODIFIED:20261114T063400Z
 LOCATION:Alexandra Palace (Great Hall)\, London
 TRANSP:TRANSPARENT
 URL:https://cswdarts.co.uk/darts/world-darts-championship/2027
