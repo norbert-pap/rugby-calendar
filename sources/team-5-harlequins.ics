@@ -4443,16 +4443,16 @@ STATUS:CONFIRMED
 SUMMARY:Harlequins 29 - 14 Northampton Saints
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261114T172836
+DTSTAMP:20261114T190712
 UID:match-6523@gainline.app
 DTSTART:20261114T143000Z
 DTEND:20261114T173000Z
-DESCRIPTION:Premiership Rugby Cup\nStage: Pool B\nRound: 4\nScore: 0 - 0\nS
- tatus: not_started\n\nPowered by Gainline.
-LAST-MODIFIED:20261114T172836
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool B\nRound: 4\nScore: 33 - 45\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261114T190712
 LOCATION:Kingston Park
 STATUS:CONFIRMED
-SUMMARY:Newcastle Red Bulls 0 - 0 Harlequins
+SUMMARY:Newcastle Red Bulls 33 - 45 Harlequins
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20261114T121007
