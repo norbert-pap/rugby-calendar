@@ -18,6 +18,7 @@ END = '[/Sports calendar viewing]'
 MAX_BYTES = 64_000_000
 MAX_RECORDS = 150_000
 LOOKUP_SECONDS = 45
+PPV_LABELS = ('STAN ', 'FloRugby ', 'PDC Board ')
 ALIASES = {'exeter chiefs': 'exeter', 'harlequins': 'harlequins'}
 EXCLUDED = re.compile(r"\b(women|womens|w|wxv|ladies|girls|boys|youth|academy|reserves|development|2nd xv|second xv|a xv|b xv|a team|b team|u\s?\d{2}s?|under\s?\d{2}|cancelled|canceled)\b")
 
@@ -215,7 +216,9 @@ def enrich(calendar, now, sport=None):
                 labels = sorted({label for name, day, label in records
                                  if abs((day - start.date()).days) <= 1 and matches(name, terms)})
                 if labels:
-                    lines = ['Watch on: ' + ', '.join(labels), 'UHF: search ' + search,
+                    # The UHF catalogue on the Pi files every PPV event channel under "Live events".
+                    where = ' in Live events' if all(label.startswith(PPV_LABELS) for label in labels) else ''
+                    lines = ['Watch on: ' + ', '.join(labels), 'UHF: search ' + search + where,
                              'Channel listing checked: ' + now.astimezone(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')] + lines
                     stats['matched_events'] += 1
             if lines:

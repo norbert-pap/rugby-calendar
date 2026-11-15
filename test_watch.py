@@ -35,7 +35,7 @@ class WatchTests(unittest.TestCase):
         with patch.dict(os.environ, {'WATCH_PROVIDER_JSON': CONFIG}), patch('watch.fetch_listings', return_value=(CATEGORIES, [LISTING]), create=True):
             stats = watch.enrich(cal, NOW)
         self.assertIn('Watch on: STAN 12', str(event['DESCRIPTION']))
-        self.assertIn('UHF: search Exeter', str(event['DESCRIPTION']))
+        self.assertIn('UHF: search Exeter in Live events', str(event['DESCRIPTION']))
         self.assertTrue(str(event['DESCRIPTION']).startswith(str(original['DESCRIPTION'])))
         for key in ('UID', 'SUMMARY', 'DTSTART', 'DTEND', 'DTSTAMP', 'SEQUENCE'):
             self.assertEqual(event[key], original[key])
@@ -53,6 +53,11 @@ class WatchTests(unittest.TestCase):
     def test_actual_listing_format(self):
         _, event, _ = self.enrich_with(listing_name='AU (STAN 12) | Exeter v Harlequins  PREM Rugby Round 5 2026/27 (2026-11-01 01:55:50)')
         self.assertIn('Watch on: STAN 12', str(event['DESCRIPTION']))
+
+    def test_non_ppv_channel_has_plain_search(self):
+        _, event, _ = self.enrich_with(listing_name='UK: TNT SPORTS 1 Exeter v Harlequins PREM Rugby (2026-11-01 15:00)', group='UK| SPORT ᴿᴬᵂ')
+        self.assertIn('Watch on: TNT Sports 1', str(event['DESCRIPTION']))
+        self.assertIn('UHF: search Exeter\n', str(event['DESCRIPTION']))
 
     def test_rejects_wrong_stale_undated_ambiguous_and_excluded_listings(self):
         for name in [
