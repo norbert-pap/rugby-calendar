@@ -151,75 +151,75 @@ STATUS:CONFIRMED
 SUMMARY:Scotland 15 - 12 Australia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261121T173611
+DTSTAMP:20261122T003612
 UID:match-5688@gainline.app
 DTSTART:20261121T141000Z
 DTEND:20261121T171000Z
 DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\nSco
  re: 37 - 12\nStatus: full_time\n\nPowered by Gainline.
-LAST-MODIFIED:20261121T173611
+LAST-MODIFIED:20261122T003612
 LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 SUMMARY:England 37 - 12 New Zealand
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261121T182043
+DTSTAMP:20261121T223322
 UID:match-5689@gainline.app
 DTSTART:20261121T141000Z
 DTEND:20261121T171000Z
 DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\nSco
  re: 67 - 5\nStatus: full_time\n\nPowered by Gainline.
-LAST-MODIFIED:20261121T182043
+LAST-MODIFIED:20261121T223322
 LOCATION:Murrayfield
 STATUS:CONFIRMED
 SUMMARY:Scotland 67 - 5 Japan
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261121T182216
+DTSTAMP:20261121T233611
 UID:match-5690@gainline.app
 DTSTART:20261121T164000Z
 DTEND:20261121T194000Z
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\nP
- owered by Gainline.
-LAST-MODIFIED:20261121T182216
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\nSco
+ re: 20 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261121T233611
 LOCATION:Aviva Stadium
 STATUS:CONFIRMED
-SUMMARY:Ireland vs South Africa
+SUMMARY:Ireland 20 - 17 South Africa
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261121T182245
+DTSTAMP:20261121T213610
 UID:match-5691@gainline.app
 DTSTART:20261121T164000Z
 DTEND:20261121T194000Z
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\nP
- owered by Gainline.
-LAST-MODIFIED:20261121T182245
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\nSco
+ re: 16 - 21\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261121T213610
 LOCATION:Bluenergy Stadium
 STATUS:CONFIRMED
-SUMMARY:Italy vs Fiji
+SUMMARY:Italy 16 - 21 Fiji
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261121T131336
+DTSTAMP:20261121T233611
 UID:match-5692@gainline.app
 DTSTART:20261121T201000Z
 DTEND:20261121T231000Z
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\nP
- owered by Gainline.
-LAST-MODIFIED:20261121T131336
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\nSco
+ re: 45 - 17\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261121T233611
 LOCATION:Stade de France
 STATUS:CONFIRMED
-SUMMARY:France vs Argentina
+SUMMARY:France 45 - 17 Argentina
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261121T114647
+DTSTAMP:20261122T003613
 UID:match-5693@gainline.app
 DTSTART:20261121T201000Z
 DTEND:20261121T231000Z
-DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\n\nP
- owered by Gainline.
-LAST-MODIFIED:20261121T114647
+DESCRIPTION:Nations Championship\nStage: Northern Hemisphere\nRound: 6\nSco
+ re: 26 - 29\nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261122T003613
 LOCATION:Principality Stadium
 STATUS:CONFIRMED
-SUMMARY:Wales vs Australia
+SUMMARY:Wales 26 - 29 Australia
 END:VEVENT
 END:VCALENDAR
