@@ -4455,16 +4455,16 @@ STATUS:CONFIRMED
 SUMMARY:Newcastle Red Bulls 33 - 45 Harlequins
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261121T145533
+DTSTAMP:20261122T020614
 UID:match-6526@gainline.app
 DTSTART:20261121T120000Z
 DTEND:20261121T150000Z
-DESCRIPTION:Premiership Rugby Cup\nStage: Pool B\nRound: 5\nScore: 0 - 0\nS
- tatus: not_started\n\nPowered by Gainline.
-LAST-MODIFIED:20261121T145533
+DESCRIPTION:Premiership Rugby Cup\nStage: Pool B\nRound: 5\nScore: 43 - 26\
+ nStatus: full_time\n\nPowered by Gainline.
+LAST-MODIFIED:20261122T020614
 LOCATION:StoneX Stadium
 STATUS:CONFIRMED
-SUMMARY:Saracens 0 - 0 Harlequins
+SUMMARY:Saracens 43 - 26 Harlequins
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260809T153545
