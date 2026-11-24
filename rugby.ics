@@ -7,21 +7,9 @@ X-WR-CALDESC:Harlequins, Hurricanes (NZ), and men's senior internationals.
   Public fixtures from Gainline.
 X-WR-CALNAME:Rugby
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
-X-LAST-REFRESHED:20261124T122904Z
+X-LAST-REFRESHED:20261124T182332Z
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Budapest
-BEGIN:VEVENT
-SUMMARY:Harlequins: Harlequins 33 - 15 Saracens
-DTSTART:20261025T150000Z
-DTEND:20261025T180000Z
-DTSTAMP:20261026T143612Z
-UID:match-5889@gainline.app
-DESCRIPTION:English Premiership\nStage: Regular Season\nRound: 4\nScore: 3
- 3 - 15\nStatus: full_time\n\nPowered by Gainline.
-LAST-MODIFIED:20261026T143612Z
-LOCATION:Twickenham Stoop
-STATUS:CONFIRMED
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Harlequins: Exeter Chiefs 28 - 31 Harlequins
 DTSTART:20261031T150000Z
@@ -278,13 +266,13 @@ BEGIN:VEVENT
 SUMMARY:Italy vs Fiji
 DTSTART:20261127T164000Z
 DTEND:20261127T194000Z
-DTSTAMP:20261124T122904Z
+DTSTAMP:20261124T182332Z
 UID:match-5694@gainline.app
 DESCRIPTION:Nations Championship\nStage: Grand Final\nRound: 7\n\nPowered 
  by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 34\nUHF: search 
- Italy in Live events\nChannel listing checked: 2026-11-24 12:29 UTC\n[/Spo
+ Italy in Live events\nChannel listing checked: 2026-11-24 18:23 UTC\n[/Spo
  rts calendar viewing]
-LAST-MODIFIED:20261124T122904Z
+LAST-MODIFIED:20261124T182332Z
 LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
@@ -292,13 +280,13 @@ BEGIN:VEVENT
 SUMMARY:Ireland vs Australia
 DTSTART:20261127T201000Z
 DTEND:20261127T231000Z
-DTSTAMP:20261124T122904Z
+DTSTAMP:20261124T182332Z
 UID:match-5695@gainline.app
 DESCRIPTION:Nations Championship\nStage: Grand Final\nRound: 7\n\nPowered 
  by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 39\nUHF: search 
- Ireland in Live events\nChannel listing checked: 2026-11-24 12:29 UTC\n[/S
+ Ireland in Live events\nChannel listing checked: 2026-11-24 18:23 UTC\n[/S
  ports calendar viewing]
-LAST-MODIFIED:20261124T122904Z
+LAST-MODIFIED:20261124T182332Z
 LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
@@ -306,13 +294,13 @@ BEGIN:VEVENT
 SUMMARY:Wales vs Japan
 DTSTART:20261128T131000Z
 DTEND:20261128T161000Z
-DTSTAMP:20261124T122904Z
+DTSTAMP:20261124T182332Z
 UID:match-5696@gainline.app
 DESCRIPTION:Nations Championship\nStage: Grand Final\nRound: 7\n\nPowered 
  by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 42\nUHF: search 
- Wales in Live events\nChannel listing checked: 2026-11-24 12:29 UTC\n[/Spo
+ Wales in Live events\nChannel listing checked: 2026-11-24 18:23 UTC\n[/Spo
  rts calendar viewing]
-LAST-MODIFIED:20261124T122904Z
+LAST-MODIFIED:20261124T182332Z
 LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
@@ -320,13 +308,13 @@ BEGIN:VEVENT
 SUMMARY:England vs New Zealand
 DTSTART:20261128T164000Z
 DTEND:20261128T194000Z
-DTSTAMP:20261124T122904Z
+DTSTAMP:20261124T182332Z
 UID:match-5697@gainline.app
 DESCRIPTION:Nations Championship\nStage: Grand Final\nRound: 7\n\nPowered 
  by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 46\nUHF: search 
- England in Live events\nChannel listing checked: 2026-11-24 12:29 UTC\n[/S
+ England in Live events\nChannel listing checked: 2026-11-24 18:23 UTC\n[/S
  ports calendar viewing]
-LAST-MODIFIED:20261124T122904Z
+LAST-MODIFIED:20261124T182332Z
 LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
@@ -334,13 +322,13 @@ BEGIN:VEVENT
 SUMMARY:Scotland vs Argentina
 DTSTART:20261129T131000Z
 DTEND:20261129T161000Z
-DTSTAMP:20261124T122904Z
+DTSTAMP:20261124T182332Z
 UID:match-5698@gainline.app
 DESCRIPTION:Nations Championship\nStage: Grand Final\nRound: 7\n\nPowered 
  by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 55\nUHF: search 
- Scotland in Live events\nChannel listing checked: 2026-11-24 12:29 UTC\n[/
+ Scotland in Live events\nChannel listing checked: 2026-11-24 18:23 UTC\n[/
  Sports calendar viewing]
-LAST-MODIFIED:20261124T122904Z
+LAST-MODIFIED:20261124T182332Z
 LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
@@ -348,13 +336,13 @@ BEGIN:VEVENT
 SUMMARY:France vs South Africa
 DTSTART:20261129T164000Z
 DTEND:20261129T194000Z
-DTSTAMP:20261124T122904Z
+DTSTAMP:20261124T182332Z
 UID:match-5699@gainline.app
 DESCRIPTION:Nations Championship\nStage: Grand Final\nRound: 7\n\nPowered 
  by Gainline.\n\n[Sports calendar viewing]\nWatch on: STAN 65\nUHF: search 
- France in Live events\nChannel listing checked: 2026-11-24 12:29 UTC\n[/Sp
+ France in Live events\nChannel listing checked: 2026-11-24 18:23 UTC\n[/Sp
  orts calendar viewing]
-LAST-MODIFIED:20261124T122904Z
+LAST-MODIFIED:20261124T182332Z
 LOCATION:Allianz Stadium
 STATUS:CONFIRMED
 END:VEVENT
