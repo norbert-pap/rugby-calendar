@@ -6,14 +6,14 @@
     }
   ],
   "duplicates_removed": 0,
-  "old_events_removed": 27,
-  "events": 16,
-  "last_successful_refresh": "2026-11-24T18:30:34.846805+00:00",
+  "old_events_removed": 30,
+  "events": 13,
+  "last_successful_refresh": "2026-11-25T00:46:28.659035+00:00",
   "optional_sources_unpublished": [],
   "latest_event_start": "2026-12-11T00:00:00+00:00",
   "watch": {
     "provider": "available",
     "matched_events": 0,
-    "hinted_events": 16
+    "hinted_events": 13
   }
 }
